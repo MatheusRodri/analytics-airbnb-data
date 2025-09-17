@@ -1,0 +1,501 @@
+pedido_id,data_hora,data,mes,dia_semana,canal,cidade,vendedor,produto,categoria,quantidade,preco_unitario,desconto_pct,frete,valor_bruto,valor_desconto,valor_total,pagamento
+d169ffe6,2024-01-01 10:25:13,2024-01-01,2024-01,Mon,Loja Física,Curitiba,Eduardo,"Monitor 24""",Periféricos,3,851.14,0.0,0.0,2553.42,0.0,2553.42,Pix
+3a1f4fca,2024-01-01 12:19:04,2024-01-01,2024-01,Mon,Marketplace,Porto Alegre,,Teclado Mecânico,Periféricos,6,391.47,0.0,29.76,2348.82,0.0,2378.58,Débito
+0d5904e4,2024-01-02 10:55:08,2024-01-02,2024-01,Tue,Marketplace,Recife,,"Monitor 24""",Periféricos,3,1030.32,0.0,0.0,3090.96,0.0,3090.96,Pix
+f7444de5,2024-01-02 12:39:48,2024-01-02,2024-01,Tue,Loja Física,Rio de Janeiro,Bruno,Teclado Mecânico,Periféricos,1,448.97,0.0,0.0,448.97,0.0,448.97,Pix
+48e7f6eb,2024-01-02 19:48:28,2024-01-02,2024-01,Tue,Loja Física,Porto Alegre,Ana,Mouse Sem Fio,Periféricos,1,161.64,0.0,0.0,161.64,0.0,161.64,Crédito
+84b97e77,2024-01-02 19:48:59,2024-01-02,2024-01,Tue,Loja Física,Salvador,Fernanda,Smartphone A,Celulares,3,2094.97,0.0,0.0,6284.91,0.0,6284.91,Pix
+f318b951,2024-01-02 21:34:06,2024-01-02,2024-01,Tue,Loja Física,Curitiba,Eduardo,Smartphone B,Celulares,3,3301.74,0.0,0.0,9905.22,0.0,9905.22,Débito
+c351d85e,2024-01-03 10:33:47,2024-01-03,2024-01,Wed,E-commerce,Belo Horizonte,,Mouse Sem Fio,Periféricos,2,152.93,0.0,33.05,305.86,0.0,338.91,Crédito
+15545e02,2024-01-03 11:19:27,2024-01-03,2024-01,Wed,E-commerce,Curitiba,,"Notebook 14""",Computadores,1,3990.1,0.05,29.11,3990.1,199.5,3819.71,Crédito
+86a96e36,2024-01-03 12:41:09,2024-01-03,2024-01,Wed,Loja Física,Rio de Janeiro,Carlos,"Tablet 10""",Tablets,2,2043.43,0.05,0.0,4086.86,204.34,3882.52,Crédito
+ad11b7b5,2024-01-03 21:25:28,2024-01-03,2024-01,Wed,E-commerce,Recife,,Mouse Sem Fio,Periféricos,6,161.33,0.0,0.0,967.98,0.0,967.98,Pix
+9fea2ba9,2024-01-04 10:12:21,2024-01-04,2024-01,Thu,Loja Física,Recife,Fernanda,Câmera Web HD,Periféricos,1,258.02,0.0,0.0,258.02,0.0,258.02,Pix
+20fb9284,2024-01-04 11:39:26,2024-01-04,2024-01,Thu,Loja Física,Porto Alegre,Eduardo,"Monitor 24""",Periféricos,2,806.08,0.05,0.0,1612.16,80.61,1531.55,Pix
+4a6609c2,2024-01-04 12:05:27,2024-01-04,2024-01,Thu,Loja Física,São Paulo,Daniela,"Notebook 14""",Computadores,2,3892.78,0.0,0.0,7785.56,0.0,7785.56,Crédito
+0d187dcb,2024-01-05 09:01:32,2024-01-05,2024-01,Fri,Loja Física,Belo Horizonte,Bruno,"Notebook 14""",Computadores,1,2789.14,0.0,0.0,2789.14,0.0,2789.14,Débito
+067ea210,2024-01-05 10:03:27,2024-01-05,2024-01,Fri,Marketplace,Florianópolis,,"Notebook 15""",Computadores,1,4231.7,0.0,29.52,4231.7,0.0,4261.22,Pix
+c2c53420,2024-01-05 12:44:23,2024-01-05,2024-01,Fri,Marketplace,Campinas,,Smartphone B,Celulares,3,2907.07,0.15,26.63,8721.21,1308.18,7439.66,Boleto
+d9a715cd,2024-01-05 14:08:32,2024-01-05,2024-01,Fri,Loja Física,Porto Alegre,Fernanda,"Notebook 14""",Computadores,1,4215.06,0.15,0.0,4215.06,632.26,3582.8,Crédito
+9ed89747,2024-01-05 20:01:09,2024-01-05,2024-01,Fri,E-commerce,Curitiba,,Mouse Sem Fio,Periféricos,2,160.2,0.0,32.97,320.4,0.0,353.37,Pix
+a5f02081,2024-01-06 20:46:55,2024-01-06,2024-01,Sat,Loja Física,Fortaleza,Ana,"Notebook 15""",Computadores,2,3945.03,0.0,0.0,7890.06,0.0,7890.06,Pix
+c7c6f945,2024-01-07 12:51:36,2024-01-07,2024-01,Sun,Marketplace,Recife,,Headset Gamer,Periféricos,3,402.34,0.0,26.85,1207.02,0.0,1233.87,Crédito
+a89cc2f2,2024-01-07 17:32:59,2024-01-07,2024-01,Sun,Loja Física,Rio de Janeiro,Fernanda,"Tablet 10""",Tablets,3,1741.88,0.0,0.0,5225.64,0.0,5225.64,Crédito
+715adfd7,2024-01-07 19:29:32,2024-01-07,2024-01,Sun,Loja Física,Curitiba,Fernanda,Teclado Mecânico,Periféricos,2,362.81,0.0,0.0,725.62,0.0,725.62,Crédito
+8d482f80,2024-01-08 11:49:57,2024-01-08,2024-01,Mon,Marketplace,Recife,,"Monitor 24""",Periféricos,4,859.14,0.05,31.56,3436.56,171.83,3296.29,Crédito
+a8a05f55,2024-01-08 19:16:25,2024-01-08,2024-01,Mon,Loja Física,Rio de Janeiro,Fernanda,Câmera Web HD,Periféricos,1,211.54,0.0,0.0,211.54,0.0,211.54,Boleto
+2e40b35d,2024-01-08 20:46:14,2024-01-08,2024-01,Mon,Marketplace,Porto Alegre,,"Tablet 10""",Tablets,4,1768.83,0.1,35.14,7075.32,707.53,6402.93,Crédito
+7a56a5bf,2024-01-09 10:00:54,2024-01-09,2024-01,Tue,Loja Física,Campinas,Ana,"Tablet 10""",Tablets,1,1716.19,0.0,0.0,1716.19,0.0,1716.19,Pix
+454e4110,2024-01-09 10:05:51,2024-01-09,2024-01,Tue,Loja Física,Curitiba,Daniela,Mouse Sem Fio,Periféricos,1,133.24,0.05,0.0,133.24,6.66,126.58,Débito
+661bdf7a,2024-01-09 18:16:59,2024-01-09,2024-01,Tue,E-commerce,Florianópolis,,Headset Gamer,Periféricos,2,337.17,0.05,13.23,674.34,33.72,653.85,Crédito
+bdae0c38,2024-01-09 19:30:07,2024-01-09,2024-01,Tue,E-commerce,Belo Horizonte,,Smartphone A,Celulares,4,2159.19,0.1,21.64,8636.76,863.68,7794.72,Crédito
+e3a0cad0,2024-01-09 19:48:55,2024-01-09,2024-01,Tue,Loja Física,Recife,Daniela,"Notebook 14""",Computadores,1,4346.38,0.0,0.0,4346.38,0.0,4346.38,Crédito
+1044f4f2,2024-01-10 12:05:57,2024-01-10,2024-01,Wed,Loja Física,Salvador,Bruno,Smartphone B,Celulares,1,2833.71,0.0,0.0,2833.71,0.0,2833.71,Crédito
+9d6d4b47,2024-01-10 13:18:47,2024-01-10,2024-01,Wed,Marketplace,Porto Alegre,,Headset Gamer,Periféricos,1,359.6,0.1,33.34,359.6,35.96,356.98,Crédito
+351ede6b,2024-01-10 14:04:54,2024-01-10,2024-01,Wed,E-commerce,Belo Horizonte,,Smartphone B,Celulares,5,3260.87,0.0,36.92,16304.35,0.0,16341.27,Pix
+95572a5c,2024-01-11 10:31:46,2024-01-11,2024-01,Thu,E-commerce,Curitiba,,"Tablet 10""",Tablets,2,2016.83,0.05,0.0,4033.66,201.68,3831.98,Crédito
+e23663e7,2024-01-11 11:44:01,2024-01-11,2024-01,Thu,E-commerce,Salvador,,Mouse Sem Fio,Periféricos,6,157.11,0.05,18.15,942.66,47.13,913.68,Débito
+5f66b803,2024-01-12 11:07:47,2024-01-12,2024-01,Fri,E-commerce,Rio de Janeiro,,Smartphone B,Celulares,2,3207.73,0.0,35.55,6415.46,0.0,6451.01,Crédito
+f05de558,2024-01-12 12:46:56,2024-01-12,2024-01,Fri,Loja Física,Rio de Janeiro,Eduardo,"Notebook 15""",Computadores,4,3637.52,0.0,0.0,14550.08,0.0,14550.08,Pix
+28b7188a,2024-01-12 20:28:07,2024-01-12,2024-01,Fri,E-commerce,São Paulo,,Headset Gamer,Periféricos,2,412.34,0.0,31.02,824.68,0.0,855.7,Crédito
+75e8e0ff,2024-01-13 12:04:31,2024-01-13,2024-01,Sat,Loja Física,Fortaleza,Daniela,"Notebook 14""",Computadores,1,3223.21,0.0,0.0,3223.21,0.0,3223.21,Crédito
+9c35bf51,2024-01-13 20:24:01,2024-01-13,2024-01,Sat,Marketplace,Belo Horizonte,,Smartphone A,Celulares,1,1890.32,0.1,27.58,1890.32,189.03,1728.87,Crédito
+5a97fdf7,2024-01-13 20:52:47,2024-01-13,2024-01,Sat,Marketplace,Curitiba,,Teclado Mecânico,Periféricos,5,387.62,0.05,18.5,1938.1,96.9,1859.7,Crédito
+9c191199,2024-01-13 21:20:22,2024-01-13,2024-01,Sat,E-commerce,Porto Alegre,,Smartphone A,Celulares,5,2320.71,0.0,13.73,11603.55,0.0,11617.28,Pix
+b27afc55,2024-01-14 09:36:08,2024-01-14,2024-01,Sun,E-commerce,Florianópolis,,"Tablet 10""",Tablets,2,1868.63,0.05,38.42,3737.26,186.86,3588.82,Pix
+2ab71eb9,2024-01-14 10:14:10,2024-01-14,2024-01,Sun,E-commerce,Florianópolis,,Smartphone A,Celulares,2,2115.79,0.0,0.0,4231.58,0.0,4231.58,Débito
+673109ae,2024-01-15 12:20:43,2024-01-15,2024-01,Mon,Marketplace,Belo Horizonte,,Headset Gamer,Periféricos,6,420.27,0.0,13.12,2521.62,0.0,2534.74,Crédito
+927eb586,2024-01-15 20:20:30,2024-01-15,2024-01,Mon,Loja Física,Rio de Janeiro,Ana,"Tablet 10""",Tablets,3,1692.78,0.0,0.0,5078.34,0.0,5078.34,Boleto
+6d8c107d,2024-01-15 21:11:43,2024-01-15,2024-01,Mon,E-commerce,Florianópolis,,Câmera Web HD,Periféricos,6,232.7,0.0,0.0,1396.2,0.0,1396.2,Débito
+3943b40d,2024-01-15 21:51:02,2024-01-15,2024-01,Mon,E-commerce,Campinas,,"Notebook 15""",Computadores,1,4522.21,0.0,33.4,4522.21,0.0,4555.61,Pix
+1efe2b71,2024-01-16 10:41:43,2024-01-16,2024-01,Tue,Marketplace,Florianópolis,,"Notebook 14""",Computadores,3,3589.06,0.0,35.15,10767.18,0.0,10802.33,Crédito
+d8a5080c,2024-01-16 12:06:10,2024-01-16,2024-01,Tue,E-commerce,Curitiba,,Teclado Mecânico,Periféricos,3,400.23,0.15,0.0,1200.69,180.1,1020.59,Crédito
+0c630840,2024-01-16 12:21:33,2024-01-16,2024-01,Tue,E-commerce,Porto Alegre,,Câmera Web HD,Periféricos,3,289.94,0.0,0.0,869.82,0.0,869.82,Pix
+84d06a62,2024-01-16 14:24:12,2024-01-16,2024-01,Tue,E-commerce,Fortaleza,,Smartphone B,Celulares,1,3783.83,0.0,33.68,3783.83,0.0,3817.51,Pix
+19392b88,2024-01-16 17:22:18,2024-01-16,2024-01,Tue,Marketplace,Fortaleza,,Smartphone A,Celulares,1,2037.99,0.0,28.41,2037.99,0.0,2066.4,Débito
+173244be,2024-01-16 21:01:26,2024-01-16,2024-01,Tue,Loja Física,Rio de Janeiro,Ana,Smartphone B,Celulares,1,3400.05,0.0,0.0,3400.05,0.0,3400.05,Crédito
+a472138e,2024-01-17 11:29:17,2024-01-17,2024-01,Wed,Loja Física,Porto Alegre,Carlos,Headset Gamer,Periféricos,2,377.65,0.0,0.0,755.3,0.0,755.3,Crédito
+7e0e4352,2024-01-17 13:15:11,2024-01-17,2024-01,Wed,Loja Física,Fortaleza,Ana,Headset Gamer,Periféricos,1,385.1,0.0,0.0,385.1,0.0,385.1,Boleto
+d670ee71,2024-01-17 18:11:22,2024-01-17,2024-01,Wed,E-commerce,São Paulo,,"Monitor 24""",Periféricos,1,831.7,0.0,24.2,831.7,0.0,855.9,Crédito
+05a2ff8c,2024-01-17 18:15:06,2024-01-17,2024-01,Wed,E-commerce,São Paulo,,"Tablet 10""",Tablets,1,1695.8,0.05,35.64,1695.8,84.79,1646.65,Crédito
+12e1e16a,2024-01-17 20:07:49,2024-01-17,2024-01,Wed,Loja Física,Salvador,Daniela,"Tablet 10""",Tablets,1,2346.42,0.0,0.0,2346.42,0.0,2346.42,Crédito
+5707188c,2024-01-17 21:42:47,2024-01-17,2024-01,Wed,Loja Física,Porto Alegre,Eduardo,Headset Gamer,Periféricos,3,438.63,0.0,0.0,1315.89,0.0,1315.89,Crédito
+daf5d789,2024-01-17 21:48:08,2024-01-17,2024-01,Wed,Marketplace,Campinas,,Mouse Sem Fio,Periféricos,1,152.28,0.1,0.0,152.28,15.23,137.05,Crédito
+72e80a7f,2024-01-18 10:15:55,2024-01-18,2024-01,Thu,E-commerce,Florianópolis,,Headset Gamer,Periféricos,2,461.79,0.0,13.07,923.58,0.0,936.65,Crédito
+eed3999f,2024-01-18 12:13:08,2024-01-18,2024-01,Thu,E-commerce,Recife,,"Notebook 14""",Computadores,1,3688.66,0.0,24.96,3688.66,0.0,3713.62,Débito
+0e3edbcb,2024-01-18 19:11:06,2024-01-18,2024-01,Thu,E-commerce,Campinas,,Câmera Web HD,Periféricos,4,230.84,0.1,0.0,923.36,92.34,831.02,Débito
+41276c4d,2024-01-18 19:17:27,2024-01-18,2024-01,Thu,Loja Física,Campinas,Ana,"Tablet 10""",Tablets,1,2042.0,0.0,0.0,2042.0,0.0,2042.0,Crédito
+3b26353b,2024-01-18 19:58:04,2024-01-18,2024-01,Thu,E-commerce,Florianópolis,,Teclado Mecânico,Periféricos,3,349.5,0.1,13.35,1048.5,104.85,957.0,Pix
+708af48a,2024-01-18 20:52:28,2024-01-18,2024-01,Thu,Marketplace,São Paulo,,"Notebook 15""",Computadores,1,3934.83,0.0,14.97,3934.83,0.0,3949.8,Boleto
+1f1657be,2024-01-19 11:06:20,2024-01-19,2024-01,Fri,E-commerce,Porto Alegre,,Teclado Mecânico,Periféricos,5,356.83,0.15,0.0,1784.15,267.62,1516.53,Débito
+6e6a2756,2024-01-19 20:32:53,2024-01-19,2024-01,Fri,Marketplace,Belo Horizonte,,"Notebook 14""",Computadores,3,3671.13,0.0,0.0,11013.39,0.0,11013.39,Crédito
+21d72833,2024-01-20 14:23:24,2024-01-20,2024-01,Sat,Loja Física,Porto Alegre,Bruno,Câmera Web HD,Periféricos,2,289.73,0.0,0.0,579.46,0.0,579.46,Pix
+997b7c90,2024-01-20 19:51:35,2024-01-20,2024-01,Sat,E-commerce,Belo Horizonte,,"Notebook 14""",Computadores,1,3526.44,0.0,38.59,3526.44,0.0,3565.03,Crédito
+12bc911b,2024-01-21 12:34:02,2024-01-21,2024-01,Sun,E-commerce,Porto Alegre,,"Notebook 14""",Computadores,1,4485.78,0.0,33.5,4485.78,0.0,4519.28,Pix
+cced9c3a,2024-01-22 09:24:16,2024-01-22,2024-01,Mon,Loja Física,Florianópolis,Bruno,"Monitor 24""",Periféricos,2,810.79,0.0,0.0,1621.58,0.0,1621.58,Boleto
+229c161e,2024-01-22 10:51:41,2024-01-22,2024-01,Mon,E-commerce,Porto Alegre,,Teclado Mecânico,Periféricos,3,281.17,0.0,17.36,843.51,0.0,860.87,Débito
+7dab5104,2024-01-22 11:07:15,2024-01-22,2024-01,Mon,Loja Física,Porto Alegre,Eduardo,Teclado Mecânico,Periféricos,5,324.49,0.0,0.0,1622.45,0.0,1622.45,Crédito
+b2492e7d,2024-01-22 11:17:00,2024-01-22,2024-01,Mon,E-commerce,Curitiba,,Câmera Web HD,Periféricos,1,201.3,0.05,14.86,201.3,10.07,206.09,Pix
+b584ce89,2024-01-22 12:29:30,2024-01-22,2024-01,Mon,Marketplace,Rio de Janeiro,,Mouse Sem Fio,Periféricos,1,190.28,0.0,35.29,190.28,0.0,225.57,Crédito
+73693369,2024-01-22 13:09:22,2024-01-22,2024-01,Mon,Marketplace,Porto Alegre,,"Monitor 24""",Periféricos,2,827.94,0.05,31.82,1655.88,82.79,1604.91,Pix
+53b40090,2024-01-22 19:46:36,2024-01-22,2024-01,Mon,Loja Física,Campinas,Daniela,Headset Gamer,Periféricos,2,393.27,0.0,0.0,786.54,0.0,786.54,Pix
+58ce772f,2024-01-22 21:20:53,2024-01-22,2024-01,Mon,E-commerce,Rio de Janeiro,,Câmera Web HD,Periféricos,2,284.28,0.0,29.86,568.56,0.0,598.42,Crédito
+5a3c2b65,2024-01-23 09:13:25,2024-01-23,2024-01,Tue,E-commerce,Porto Alegre,,Smartphone A,Celulares,2,1678.76,0.0,0.0,3357.52,0.0,3357.52,Crédito
+a737ddc7,2024-01-23 10:41:54,2024-01-23,2024-01,Tue,Loja Física,Florianópolis,Eduardo,"Tablet 10""",Tablets,1,1810.95,0.0,0.0,1810.95,0.0,1810.95,Crédito
+6253a64d,2024-01-25 12:22:14,2024-01-25,2024-01,Thu,Marketplace,Salvador,,Câmera Web HD,Periféricos,1,281.63,0.0,30.53,281.63,0.0,312.16,Crédito
+93164e34,2024-01-25 19:39:16,2024-01-25,2024-01,Thu,Marketplace,Porto Alegre,,"Notebook 14""",Computadores,1,3864.57,0.0,15.59,3864.57,0.0,3880.16,Crédito
+7f249d1a,2024-01-25 20:45:33,2024-01-25,2024-01,Thu,Loja Física,Fortaleza,Daniela,"Notebook 15""",Computadores,4,3453.3,0.0,0.0,13813.2,0.0,13813.2,Pix
+70ed1354,2024-01-26 10:41:37,2024-01-26,2024-01,Fri,E-commerce,Campinas,,Headset Gamer,Periféricos,1,472.01,0.0,28.98,472.01,0.0,500.99,Crédito
+4428bfa9,2024-01-26 12:14:05,2024-01-26,2024-01,Fri,E-commerce,Fortaleza,,Headset Gamer,Periféricos,4,434.66,0.0,16.75,1738.64,0.0,1755.39,Crédito
+d062f883,2024-01-26 19:36:37,2024-01-26,2024-01,Fri,Marketplace,Florianópolis,,Câmera Web HD,Periféricos,3,278.53,0.0,23.58,835.59,0.0,859.17,Crédito
+0e58d6fa,2024-01-29 10:14:32,2024-01-29,2024-01,Mon,Marketplace,Porto Alegre,,"Notebook 14""",Computadores,5,3809.5,0.1,0.0,19047.5,1904.75,17142.75,Débito
+c62a0e8c,2024-01-29 12:55:32,2024-01-29,2024-01,Mon,Loja Física,Salvador,Daniela,Headset Gamer,Periféricos,2,455.26,0.0,0.0,910.52,0.0,910.52,Débito
+94b066db,2024-01-29 20:49:58,2024-01-29,2024-01,Mon,E-commerce,Belo Horizonte,,Headset Gamer,Periféricos,2,387.21,0.05,0.0,774.42,38.72,735.7,Crédito
+e4060f4e,2024-01-30 09:02:44,2024-01-30,2024-01,Tue,E-commerce,Florianópolis,,"Tablet 10""",Tablets,1,2099.63,0.15,30.46,2099.63,314.94,1815.15,Crédito
+c2a971ba,2024-01-30 12:32:00,2024-01-30,2024-01,Tue,Marketplace,São Paulo,,Smartphone B,Celulares,5,3894.48,0.0,0.0,19472.4,0.0,19472.4,Crédito
+d3737efe,2024-01-30 12:34:41,2024-01-30,2024-01,Tue,Loja Física,Florianópolis,Fernanda,"Notebook 14""",Computadores,1,3080.55,0.05,0.0,3080.55,154.03,2926.52,Débito
+cf1d3d00,2024-01-30 18:48:27,2024-01-30,2024-01,Tue,Loja Física,Recife,Eduardo,"Notebook 15""",Computadores,3,4486.18,0.0,0.0,13458.54,0.0,13458.54,Crédito
+b3a3bec5,2024-01-31 12:49:03,2024-01-31,2024-01,Wed,Marketplace,Porto Alegre,,Câmera Web HD,Periféricos,3,199.12,0.1,26.15,597.36,59.74,563.77,Pix
+4bd1a086,2024-01-31 19:42:42,2024-01-31,2024-01,Wed,E-commerce,São Paulo,,Câmera Web HD,Periféricos,1,229.78,0.05,35.6,229.78,11.49,253.89,Débito
+17e553b9,2024-02-01 10:24:49,2024-02-01,2024-02,Thu,E-commerce,Curitiba,,Mouse Sem Fio,Periféricos,3,188.44,0.0,0.0,565.32,0.0,565.32,Crédito
+27cfb3c3,2024-02-01 10:57:35,2024-02-01,2024-02,Thu,Marketplace,Salvador,,Câmera Web HD,Periféricos,1,275.88,0.0,0.0,275.88,0.0,275.88,Crédito
+954042bd,2024-02-01 11:11:02,2024-02-01,2024-02,Thu,Loja Física,Belo Horizonte,Ana,Mouse Sem Fio,Periféricos,1,177.21,0.0,0.0,177.21,0.0,177.21,Boleto
+abc57de0,2024-02-01 16:27:32,2024-02-01,2024-02,Thu,Marketplace,Recife,,Smartphone A,Celulares,1,2914.56,0.0,19.53,2914.56,0.0,2934.09,Crédito
+1b3f54f3,2024-02-01 19:41:46,2024-02-01,2024-02,Thu,E-commerce,São Paulo,,Mouse Sem Fio,Periféricos,1,174.34,0.0,22.9,174.34,0.0,197.24,Pix
+fb3441e4,2024-02-02 11:00:48,2024-02-02,2024-02,Fri,Loja Física,Curitiba,Bruno,"Notebook 14""",Computadores,1,3392.11,0.0,0.0,3392.11,0.0,3392.11,Boleto
+1ac0fb8e,2024-02-02 19:46:59,2024-02-02,2024-02,Fri,Loja Física,Florianópolis,Carlos,Teclado Mecânico,Periféricos,2,373.47,0.0,0.0,746.94,0.0,746.94,Crédito
+5d438b60,2024-02-02 20:00:50,2024-02-02,2024-02,Fri,Marketplace,Porto Alegre,,Mouse Sem Fio,Periféricos,2,194.63,0.2,25.43,389.26,77.85,336.84,Crédito
+af8a6528,2024-02-03 10:46:08,2024-02-03,2024-02,Sat,Loja Física,Curitiba,Fernanda,Teclado Mecânico,Periféricos,2,336.9,0.05,0.0,673.8,33.69,640.11,Débito
+1ce5aff8,2024-02-03 19:56:52,2024-02-03,2024-02,Sat,E-commerce,São Paulo,,"Monitor 24""",Periféricos,1,857.89,0.0,35.49,857.89,0.0,893.38,Crédito
+c242de36,2024-02-03 20:33:10,2024-02-03,2024-02,Sat,E-commerce,Recife,,Smartphone B,Celulares,1,2828.96,0.0,0.0,2828.96,0.0,2828.96,Pix
+aa981fce,2024-02-05 11:45:08,2024-02-05,2024-02,Mon,E-commerce,Belo Horizonte,,"Tablet 10""",Tablets,2,1536.51,0.0,37.58,3073.02,0.0,3110.6,Crédito
+59cbdf65,2024-02-05 19:43:18,2024-02-05,2024-02,Mon,Loja Física,Campinas,Bruno,"Notebook 14""",Computadores,2,3368.11,0.05,0.0,6736.22,336.81,6399.41,Pix
+3fc3d690,2024-02-05 21:27:04,2024-02-05,2024-02,Mon,Marketplace,Fortaleza,,Câmera Web HD,Periféricos,4,269.27,0.0,14.25,1077.08,0.0,1091.33,Pix
+2cfdddbd,2024-02-06 10:19:48,2024-02-06,2024-02,Tue,Loja Física,Recife,Fernanda,Câmera Web HD,Periféricos,4,250.98,0.0,0.0,1003.92,0.0,1003.92,Débito
+d9203b5b,2024-02-06 19:23:14,2024-02-06,2024-02,Tue,E-commerce,Rio de Janeiro,,Smartphone A,Celulares,1,2026.82,0.0,30.03,2026.82,0.0,2056.85,Débito
+716438fd,2024-02-08 10:49:11,2024-02-08,2024-02,Thu,E-commerce,Rio de Janeiro,,"Notebook 14""",Computadores,1,3525.33,0.05,13.47,3525.33,176.27,3362.53,Pix
+c4fd7b19,2024-02-08 11:16:20,2024-02-08,2024-02,Thu,Marketplace,Salvador,,Mouse Sem Fio,Periféricos,1,172.17,0.0,14.21,172.17,0.0,186.38,Débito
+61127b2c,2024-02-09 19:28:29,2024-02-09,2024-02,Fri,Loja Física,Belo Horizonte,Fernanda,Smartphone A,Celulares,1,2346.46,0.0,0.0,2346.46,0.0,2346.46,Crédito
+e8040cc4,2024-02-09 21:51:28,2024-02-09,2024-02,Fri,E-commerce,Recife,,"Notebook 14""",Computadores,1,4288.09,0.15,23.13,4288.09,643.21,3668.01,Crédito
+1a003fe2,2024-02-10 16:34:53,2024-02-10,2024-02,Sat,Loja Física,São Paulo,Carlos,Câmera Web HD,Periféricos,3,210.26,0.0,0.0,630.78,0.0,630.78,Crédito
+483fe5cf,2024-02-10 19:23:03,2024-02-10,2024-02,Sat,E-commerce,Rio de Janeiro,,"Monitor 24""",Periféricos,4,861.33,0.0,37.41,3445.32,0.0,3482.73,Pix
+83848923,2024-02-11 11:24:32,2024-02-11,2024-02,Sun,Loja Física,Campinas,Eduardo,"Notebook 15""",Computadores,1,4859.13,0.0,0.0,4859.13,0.0,4859.13,Crédito
+aa5281fd,2024-02-11 20:52:23,2024-02-11,2024-02,Sun,E-commerce,Porto Alegre,,Smartphone A,Celulares,1,2932.17,0.0,0.0,2932.17,0.0,2932.17,Pix
+f3ea9a05,2024-02-13 11:02:22,2024-02-13,2024-02,Tue,E-commerce,Campinas,,Smartphone B,Celulares,1,2971.4,0.0,17.27,2971.4,0.0,2988.67,Pix
+95b58f9b,2024-02-13 11:38:55,2024-02-13,2024-02,Tue,Marketplace,Curitiba,,Headset Gamer,Periféricos,5,337.91,0.0,24.06,1689.55,0.0,1713.61,Crédito
+14c9896e,2024-02-13 19:24:38,2024-02-13,2024-02,Tue,Loja Física,Fortaleza,Carlos,"Monitor 24""",Periféricos,3,997.35,0.0,0.0,2992.05,0.0,2992.05,Débito
+7c88da81,2024-02-13 20:29:55,2024-02-13,2024-02,Tue,Marketplace,Fortaleza,,"Notebook 14""",Computadores,1,4402.33,0.0,16.07,4402.33,0.0,4418.4,Pix
+3278bf03,2024-02-13 21:25:40,2024-02-13,2024-02,Tue,E-commerce,São Paulo,,Mouse Sem Fio,Periféricos,1,156.73,0.0,33.93,156.73,0.0,190.66,Pix
+a51b158c,2024-02-14 11:28:09,2024-02-14,2024-02,Wed,Loja Física,Campinas,Daniela,Headset Gamer,Periféricos,2,534.92,0.0,0.0,1069.84,0.0,1069.84,Débito
+f55e4266,2024-02-14 21:37:12,2024-02-14,2024-02,Wed,E-commerce,Rio de Janeiro,,Headset Gamer,Periféricos,4,407.11,0.05,0.0,1628.44,81.42,1547.02,Crédito
+8d403f7d,2024-02-15 11:22:41,2024-02-15,2024-02,Thu,Loja Física,Recife,Ana,Headset Gamer,Periféricos,1,484.51,0.0,0.0,484.51,0.0,484.51,Crédito
+92d137ae,2024-02-15 12:09:39,2024-02-15,2024-02,Thu,E-commerce,Recife,,Câmera Web HD,Periféricos,2,231.18,0.0,20.76,462.36,0.0,483.12,Crédito
+edb69bd3,2024-02-15 21:07:53,2024-02-15,2024-02,Thu,Marketplace,Fortaleza,,"Tablet 10""",Tablets,1,2238.83,0.0,31.25,2238.83,0.0,2270.08,Pix
+7492cf7e,2024-02-16 09:16:09,2024-02-16,2024-02,Fri,Loja Física,São Paulo,Fernanda,"Tablet 10""",Tablets,1,1628.98,0.0,0.0,1628.98,0.0,1628.98,Débito
+4f3c5267,2024-02-16 16:48:34,2024-02-16,2024-02,Fri,Marketplace,Campinas,,Headset Gamer,Periféricos,5,413.77,0.1,25.8,2068.85,206.88,1887.77,Débito
+ee9c24a8,2024-02-17 20:17:16,2024-02-17,2024-02,Sat,Marketplace,Salvador,,Mouse Sem Fio,Periféricos,3,152.2,0.0,28.66,456.6,0.0,485.26,Pix
+d2a604fa,2024-02-19 11:20:05,2024-02-19,2024-02,Mon,Loja Física,Florianópolis,Eduardo,Teclado Mecânico,Periféricos,5,325.88,0.0,0.0,1629.4,0.0,1629.4,Débito
+33ec638c,2024-02-19 12:34:28,2024-02-19,2024-02,Mon,Marketplace,Belo Horizonte,,Mouse Sem Fio,Periféricos,1,125.27,0.0,33.76,125.27,0.0,159.03,Pix
+a4644457,2024-02-20 10:50:57,2024-02-20,2024-02,Tue,Loja Física,Campinas,Fernanda,Headset Gamer,Periféricos,1,481.67,0.0,0.0,481.67,0.0,481.67,Crédito
+b4fa7739,2024-02-20 10:52:31,2024-02-20,2024-02,Tue,E-commerce,Rio de Janeiro,,Mouse Sem Fio,Periféricos,3,137.2,0.0,0.0,411.6,0.0,411.6,Crédito
+eb6f18f4,2024-02-20 10:59:17,2024-02-20,2024-02,Tue,Loja Física,Fortaleza,Daniela,"Monitor 24""",Periféricos,1,733.0,0.0,0.0,733.0,0.0,733.0,Débito
+b8757b35,2024-02-20 12:39:36,2024-02-20,2024-02,Tue,Loja Física,São Paulo,Carlos,Teclado Mecânico,Periféricos,1,381.73,0.0,0.0,381.73,0.0,381.73,Crédito
+8d928f6f,2024-02-20 17:08:01,2024-02-20,2024-02,Tue,E-commerce,Recife,,Smartphone A,Celulares,1,2389.35,0.0,37.09,2389.35,0.0,2426.44,Crédito
+9c9d78a9,2024-02-20 19:19:01,2024-02-20,2024-02,Tue,Loja Física,Rio de Janeiro,Eduardo,Teclado Mecânico,Periféricos,1,405.24,0.0,0.0,405.24,0.0,405.24,Débito
+96f26651,2024-02-21 11:06:53,2024-02-21,2024-02,Wed,E-commerce,Porto Alegre,,"Monitor 24""",Periféricos,3,827.09,0.0,34.08,2481.27,0.0,2515.35,Crédito
+8cce9b7d,2024-02-21 11:31:55,2024-02-21,2024-02,Wed,Loja Física,Florianópolis,Daniela,Smartphone B,Celulares,2,3394.29,0.1,0.0,6788.58,678.86,6109.72,Crédito
+0552e0fa,2024-02-21 14:21:27,2024-02-21,2024-02,Wed,E-commerce,Rio de Janeiro,,"Monitor 24""",Periféricos,2,837.52,0.05,21.69,1675.04,83.75,1612.98,Débito
+9fea7d48,2024-02-21 19:25:03,2024-02-21,2024-02,Wed,Loja Física,Porto Alegre,Eduardo,Câmera Web HD,Periféricos,3,208.21,0.0,0.0,624.63,0.0,624.63,Crédito
+497dece2,2024-02-21 20:26:28,2024-02-21,2024-02,Wed,E-commerce,Fortaleza,,Smartphone B,Celulares,2,3101.07,0.0,17.11,6202.14,0.0,6219.25,Boleto
+c0caf4a5,2024-02-22 10:10:50,2024-02-22,2024-02,Thu,Loja Física,Campinas,Daniela,"Notebook 15""",Computadores,1,4660.98,0.0,0.0,4660.98,0.0,4660.98,Crédito
+5084c553,2024-02-22 14:43:04,2024-02-22,2024-02,Thu,Loja Física,Porto Alegre,Ana,Headset Gamer,Periféricos,2,481.71,0.0,0.0,963.42,0.0,963.42,Débito
+609b0f56,2024-02-22 19:04:02,2024-02-22,2024-02,Thu,Marketplace,Fortaleza,,Headset Gamer,Periféricos,3,408.02,0.0,30.54,1224.06,0.0,1254.6,Crédito
+477be50b,2024-02-22 19:54:15,2024-02-22,2024-02,Thu,Marketplace,Porto Alegre,,Teclado Mecânico,Periféricos,3,393.51,0.0,0.0,1180.53,0.0,1180.53,Crédito
+309ef6d3,2024-02-22 19:55:36,2024-02-22,2024-02,Thu,Marketplace,Salvador,,Headset Gamer,Periféricos,2,480.33,0.0,30.29,960.66,0.0,990.95,Crédito
+da7399ed,2024-02-23 10:34:47,2024-02-23,2024-02,Fri,Loja Física,São Paulo,Daniela,Smartphone B,Celulares,1,3137.26,0.0,0.0,3137.26,0.0,3137.26,Pix
+aa38ca20,2024-02-24 10:27:30,2024-02-24,2024-02,Sat,E-commerce,São Paulo,,"Tablet 10""",Tablets,4,1865.7,0.0,33.41,7462.8,0.0,7496.21,Débito
+6b1f1363,2024-02-24 16:33:34,2024-02-24,2024-02,Sat,E-commerce,São Paulo,,Smartphone A,Celulares,3,2988.56,0.15,0.0,8965.68,1344.85,7620.83,Crédito
+ea0acc17,2024-02-24 20:57:50,2024-02-24,2024-02,Sat,E-commerce,Florianópolis,,Mouse Sem Fio,Periféricos,2,165.12,0.0,14.67,330.24,0.0,344.91,Pix
+53a339d5,2024-02-26 11:27:22,2024-02-26,2024-02,Mon,Marketplace,Salvador,,Smartphone B,Celulares,3,3192.82,0.05,19.53,9578.46,478.92,9119.07,Crédito
+4eaa76f5,2024-02-26 13:13:59,2024-02-26,2024-02,Mon,E-commerce,São Paulo,,Smartphone B,Celulares,1,4005.87,0.0,0.0,4005.87,0.0,4005.87,Boleto
+957d6a61,2024-02-27 10:28:21,2024-02-27,2024-02,Tue,Loja Física,Curitiba,Carlos,Smartphone B,Celulares,3,3031.51,0.0,0.0,9094.53,0.0,9094.53,Pix
+7a764c12,2024-02-27 12:52:59,2024-02-27,2024-02,Tue,Marketplace,Recife,,"Monitor 24""",Periféricos,2,962.41,0.0,0.0,1924.82,0.0,1924.82,Crédito
+59bc8956,2024-02-27 20:57:02,2024-02-27,2024-02,Tue,Loja Física,Recife,Carlos,Headset Gamer,Periféricos,2,521.38,0.0,0.0,1042.76,0.0,1042.76,Pix
+70afb47e,2024-02-27 21:03:11,2024-02-27,2024-02,Tue,Loja Física,São Paulo,Eduardo,"Tablet 10""",Tablets,2,1822.59,0.0,0.0,3645.18,0.0,3645.18,Pix
+9003c81f,2024-02-27 21:58:43,2024-02-27,2024-02,Tue,Loja Física,Recife,Ana,Mouse Sem Fio,Periféricos,1,170.61,0.0,0.0,170.61,0.0,170.61,Crédito
+5b27182a,2024-02-28 10:36:04,2024-02-28,2024-02,Wed,E-commerce,Curitiba,,"Notebook 15""",Computadores,2,4453.97,0.0,30.15,8907.94,0.0,8938.09,Débito
+6014478a,2024-02-28 12:00:07,2024-02-28,2024-02,Wed,E-commerce,Fortaleza,,Smartphone B,Celulares,3,3431.58,0.0,20.86,10294.74,0.0,10315.6,Crédito
+ade00b68,2024-02-28 12:44:45,2024-02-28,2024-02,Wed,Loja Física,Rio de Janeiro,Daniela,"Tablet 10""",Tablets,3,1838.44,0.0,0.0,5515.32,0.0,5515.32,Crédito
+fe3b56ec,2024-02-28 14:26:39,2024-02-28,2024-02,Wed,Loja Física,Florianópolis,Eduardo,"Monitor 24""",Periféricos,2,829.6,0.05,0.0,1659.2,82.96,1576.24,Crédito
+94adc4af,2024-02-28 16:10:12,2024-02-28,2024-02,Wed,Loja Física,Rio de Janeiro,Fernanda,Câmera Web HD,Periféricos,4,270.3,0.0,0.0,1081.2,0.0,1081.2,Boleto
+7c388e92,2024-02-28 20:58:55,2024-02-28,2024-02,Wed,Loja Física,Fortaleza,Fernanda,Teclado Mecânico,Periféricos,3,331.66,0.0,0.0,994.98,0.0,994.98,Crédito
+7e0be106,2024-02-28 21:21:36,2024-02-28,2024-02,Wed,E-commerce,Campinas,,"Notebook 14""",Computadores,3,3026.72,0.05,0.0,9080.16,454.01,8626.15,Débito
+ae05247f,2024-02-29 21:00:39,2024-02-29,2024-02,Thu,Loja Física,Curitiba,Bruno,Smartphone B,Celulares,3,3414.66,0.0,0.0,10243.98,0.0,10243.98,Pix
+6f4be276,2024-02-29 21:15:29,2024-02-29,2024-02,Thu,E-commerce,Salvador,,"Monitor 24""",Periféricos,1,813.71,0.0,35.04,813.71,0.0,848.75,Pix
+b4d1e0ef,2024-03-01 10:01:53,2024-03-01,2024-03,Fri,Marketplace,Rio de Janeiro,,Headset Gamer,Periféricos,2,495.27,0.0,0.0,990.54,0.0,990.54,Boleto
+db265b89,2024-03-01 11:53:52,2024-03-01,2024-03,Fri,Marketplace,Salvador,,Smartphone A,Celulares,2,2277.79,0.05,23.1,4555.58,227.78,4350.9,Crédito
+d4c5dcec,2024-03-01 12:38:34,2024-03-01,2024-03,Fri,E-commerce,Belo Horizonte,,Headset Gamer,Periféricos,1,439.53,0.0,30.82,439.53,0.0,470.35,Crédito
+90a71bd1,2024-03-02 10:42:39,2024-03-02,2024-03,Sat,E-commerce,Fortaleza,,Smartphone A,Celulares,1,2246.01,0.0,16.36,2246.01,0.0,2262.37,Débito
+6a8bf9c3,2024-03-02 20:32:54,2024-03-02,2024-03,Sat,E-commerce,Florianópolis,,"Notebook 15""",Computadores,2,3801.55,0.15,36.16,7603.1,1140.46,6498.8,Crédito
+57e918e2,2024-03-04 11:38:16,2024-03-04,2024-03,Mon,Loja Física,Recife,Fernanda,Câmera Web HD,Periféricos,3,261.6,0.0,0.0,784.8,0.0,784.8,Boleto
+24d24693,2024-03-04 21:21:42,2024-03-04,2024-03,Mon,Marketplace,Curitiba,,"Tablet 10""",Tablets,2,2147.09,0.05,0.0,4294.18,214.71,4079.47,Débito
+a4a53e20,2024-03-05 12:08:54,2024-03-05,2024-03,Tue,Marketplace,Campinas,,"Notebook 15""",Computadores,1,3900.56,0.0,0.0,3900.56,0.0,3900.56,Pix
+d04998b9,2024-03-05 17:00:04,2024-03-05,2024-03,Tue,Loja Física,Florianópolis,Eduardo,"Monitor 24""",Periféricos,1,1029.94,0.0,0.0,1029.94,0.0,1029.94,Crédito
+12b4e9aa,2024-03-05 19:39:58,2024-03-05,2024-03,Tue,E-commerce,Campinas,,Headset Gamer,Periféricos,5,398.72,0.1,35.2,1993.6,199.36,1829.44,Crédito
+4c50d26d,2024-03-06 12:25:45,2024-03-06,2024-03,Wed,Loja Física,Porto Alegre,Fernanda,Headset Gamer,Periféricos,1,407.7,0.0,0.0,407.7,0.0,407.7,Débito
+ead0952c,2024-03-06 12:54:27,2024-03-06,2024-03,Wed,Marketplace,Fortaleza,,Mouse Sem Fio,Periféricos,5,157.78,0.0,17.86,788.9,0.0,806.76,Crédito
+bced4831,2024-03-06 13:58:19,2024-03-06,2024-03,Wed,E-commerce,Curitiba,,"Notebook 15""",Computadores,1,4123.34,0.05,0.0,4123.34,206.17,3917.17,Crédito
+8e372270,2024-03-06 19:14:23,2024-03-06,2024-03,Wed,E-commerce,Salvador,,"Monitor 24""",Periféricos,1,780.35,0.0,0.0,780.35,0.0,780.35,Pix
+d93c9963,2024-03-07 18:28:44,2024-03-07,2024-03,Thu,E-commerce,Belo Horizonte,,Teclado Mecânico,Periféricos,3,379.99,0.05,34.95,1139.97,57.0,1117.92,Crédito
+c56d5162,2024-03-07 18:48:58,2024-03-07,2024-03,Thu,E-commerce,Fortaleza,,Teclado Mecânico,Periféricos,4,418.86,0.15,38.49,1675.44,251.32,1462.61,Débito
+de0df8c8,2024-03-07 20:12:30,2024-03-07,2024-03,Thu,E-commerce,Rio de Janeiro,,"Tablet 10""",Tablets,1,1654.24,0.1,30.72,1654.24,165.42,1519.54,Crédito
+e8cd0506,2024-03-07 20:33:37,2024-03-07,2024-03,Thu,Marketplace,Campinas,,"Notebook 15""",Computadores,1,4013.7,0.0,35.6,4013.7,0.0,4049.3,Crédito
+163c6c74,2024-03-07 21:57:56,2024-03-07,2024-03,Thu,E-commerce,Curitiba,,Smartphone B,Celulares,3,3073.76,0.15,0.0,9221.28,1383.19,7838.09,Crédito
+dd308aac,2024-03-08 09:08:32,2024-03-08,2024-03,Fri,E-commerce,Curitiba,,Smartphone A,Celulares,2,2439.58,0.0,37.31,4879.16,0.0,4916.47,Crédito
+c6b74f43,2024-03-08 10:23:18,2024-03-08,2024-03,Fri,E-commerce,São Paulo,,"Notebook 14""",Computadores,2,3317.74,0.0,33.89,6635.48,0.0,6669.37,Pix
+acf1e9f0,2024-03-08 12:12:16,2024-03-08,2024-03,Fri,E-commerce,Recife,,Smartphone B,Celulares,2,3321.88,0.15,0.0,6643.76,996.56,5647.2,Débito
+3c974dda,2024-03-08 12:49:30,2024-03-08,2024-03,Fri,E-commerce,Porto Alegre,,Câmera Web HD,Periféricos,2,232.4,0.15,0.0,464.8,69.72,395.08,Crédito
+a4dd13ab,2024-03-08 14:04:46,2024-03-08,2024-03,Fri,E-commerce,Belo Horizonte,,Câmera Web HD,Periféricos,1,265.52,0.15,25.0,265.52,39.83,250.69,Pix
+29b059dd,2024-03-08 19:59:11,2024-03-08,2024-03,Fri,Loja Física,Rio de Janeiro,Daniela,"Monitor 24""",Periféricos,3,864.96,0.0,0.0,2594.88,0.0,2594.88,Crédito
+833e46b3,2024-03-08 21:20:51,2024-03-08,2024-03,Fri,Marketplace,Porto Alegre,,"Tablet 10""",Tablets,3,1797.49,0.2,14.64,5392.47,1078.49,4328.62,Crédito
+65fde4c9,2024-03-11 10:32:48,2024-03-11,2024-03,Mon,Loja Física,Curitiba,Fernanda,"Notebook 15""",Computadores,1,4389.0,0.0,0.0,4389.0,0.0,4389.0,Débito
+6ebc5de0,2024-03-11 10:58:05,2024-03-11,2024-03,Mon,Loja Física,Fortaleza,Carlos,"Notebook 14""",Computadores,2,4205.54,0.0,0.0,8411.08,0.0,8411.08,Crédito
+cf04db99,2024-03-11 11:06:09,2024-03-11,2024-03,Mon,E-commerce,Salvador,,"Notebook 15""",Computadores,1,4782.71,0.0,19.42,4782.71,0.0,4802.13,Débito
+b6ef526a,2024-03-11 11:58:44,2024-03-11,2024-03,Mon,Loja Física,Salvador,Carlos,Smartphone B,Celulares,3,3400.9,0.0,0.0,10202.7,0.0,10202.7,Crédito
+5b64905b,2024-03-11 14:33:17,2024-03-11,2024-03,Mon,Loja Física,Porto Alegre,Fernanda,"Notebook 14""",Computadores,1,3111.71,0.0,0.0,3111.71,0.0,3111.71,Crédito
+1853b5d3,2024-03-11 20:36:56,2024-03-11,2024-03,Mon,E-commerce,Belo Horizonte,,Teclado Mecânico,Periféricos,3,328.79,0.0,26.81,986.37,0.0,1013.18,Pix
+e3c10b7e,2024-03-12 13:33:10,2024-03-12,2024-03,Tue,E-commerce,Salvador,,"Notebook 14""",Computadores,1,3329.93,0.0,0.0,3329.93,0.0,3329.93,Pix
+a6402fff,2024-03-13 11:22:43,2024-03-13,2024-03,Wed,E-commerce,Rio de Janeiro,,Câmera Web HD,Periféricos,3,225.38,0.0,25.89,676.14,0.0,702.03,Crédito
+7b6bf288,2024-03-14 15:41:50,2024-03-14,2024-03,Thu,E-commerce,Salvador,,Headset Gamer,Periféricos,2,373.11,0.0,23.64,746.22,0.0,769.86,Crédito
+3b644929,2024-03-15 09:25:26,2024-03-15,2024-03,Fri,E-commerce,Florianópolis,,Mouse Sem Fio,Periféricos,1,142.94,0.0,16.5,142.94,0.0,159.44,Crédito
+3afaf921,2024-03-15 12:46:25,2024-03-15,2024-03,Fri,E-commerce,Belo Horizonte,,"Notebook 14""",Computadores,1,3824.7,0.05,23.21,3824.7,191.24,3656.67,Pix
+1923f32a,2024-03-16 11:02:53,2024-03-16,2024-03,Sat,Loja Física,Curitiba,Ana,Teclado Mecânico,Periféricos,3,396.53,0.0,0.0,1189.59,0.0,1189.59,Débito
+e7375d73,2024-03-16 21:31:29,2024-03-16,2024-03,Sat,E-commerce,Fortaleza,,Smartphone B,Celulares,2,3550.1,0.05,23.1,7100.2,355.01,6768.29,Crédito
+5f2aa134,2024-03-18 09:03:03,2024-03-18,2024-03,Mon,E-commerce,Recife,,Câmera Web HD,Periféricos,1,219.34,0.0,32.54,219.34,0.0,251.88,Crédito
+35797082,2024-03-18 11:13:12,2024-03-18,2024-03,Mon,E-commerce,Curitiba,,Headset Gamer,Periféricos,4,504.18,0.0,25.39,2016.72,0.0,2042.11,Crédito
+401a8d5d,2024-03-18 19:42:21,2024-03-18,2024-03,Mon,Marketplace,Salvador,,Smartphone A,Celulares,2,2223.44,0.05,36.7,4446.88,222.34,4261.24,Crédito
+0ac8943e,2024-03-18 19:54:32,2024-03-18,2024-03,Mon,E-commerce,Fortaleza,,"Notebook 15""",Computadores,3,3611.29,0.0,0.0,10833.87,0.0,10833.87,Crédito
+e9baf52a,2024-03-19 12:58:49,2024-03-19,2024-03,Tue,Marketplace,Salvador,,"Notebook 14""",Computadores,2,3157.06,0.0,38.92,6314.12,0.0,6353.04,Boleto
+07f60094,2024-03-19 15:30:55,2024-03-19,2024-03,Tue,Marketplace,Porto Alegre,,"Monitor 24""",Periféricos,5,819.59,0.0,0.0,4097.95,0.0,4097.95,Crédito
+f9dae2c7,2024-03-19 19:14:34,2024-03-19,2024-03,Tue,E-commerce,Recife,,Smartphone A,Celulares,2,1901.48,0.0,13.18,3802.96,0.0,3816.14,Crédito
+f8f33a59,2024-03-20 10:11:25,2024-03-20,2024-03,Wed,Loja Física,Florianópolis,Bruno,Smartphone B,Celulares,1,3752.09,0.0,0.0,3752.09,0.0,3752.09,Crédito
+1c92d61a,2024-03-20 12:02:51,2024-03-20,2024-03,Wed,E-commerce,Recife,,"Monitor 24""",Periféricos,2,955.31,0.0,29.06,1910.62,0.0,1939.68,Crédito
+9f0b3293,2024-03-20 21:32:06,2024-03-20,2024-03,Wed,E-commerce,Recife,,Mouse Sem Fio,Periféricos,6,161.48,0.0,0.0,968.88,0.0,968.88,Débito
+2912b850,2024-03-22 15:15:41,2024-03-22,2024-03,Fri,E-commerce,Salvador,,Headset Gamer,Periféricos,4,472.07,0.1,36.21,1888.28,188.83,1735.66,Boleto
+7166483d,2024-03-22 21:18:06,2024-03-22,2024-03,Fri,E-commerce,Salvador,,Smartphone A,Celulares,2,2334.12,0.0,0.0,4668.24,0.0,4668.24,Pix
+e07459dc,2024-03-23 11:29:14,2024-03-23,2024-03,Sat,E-commerce,Salvador,,Smartphone A,Celulares,1,2273.19,0.0,0.0,2273.19,0.0,2273.19,Boleto
+5397acc6,2024-03-23 15:49:09,2024-03-23,2024-03,Sat,E-commerce,Campinas,,"Notebook 15""",Computadores,1,4623.58,0.0,37.45,4623.58,0.0,4661.03,Pix
+439467d2,2024-03-23 16:53:06,2024-03-23,2024-03,Sat,E-commerce,Curitiba,,Smartphone A,Celulares,4,2259.76,0.1,0.0,9039.04,903.9,8135.14,Pix
+63dba713,2024-03-25 10:39:17,2024-03-25,2024-03,Mon,E-commerce,Rio de Janeiro,,"Notebook 14""",Computadores,2,3975.35,0.0,17.72,7950.7,0.0,7968.42,Crédito
+251887fb,2024-03-25 16:10:21,2024-03-25,2024-03,Mon,E-commerce,Curitiba,,Smartphone B,Celulares,3,3449.84,0.05,36.77,10349.52,517.48,9868.81,Pix
+a0815489,2024-03-26 10:49:23,2024-03-26,2024-03,Tue,Loja Física,Rio de Janeiro,Bruno,Mouse Sem Fio,Periféricos,1,122.86,0.0,0.0,122.86,0.0,122.86,Crédito
+6659475c,2024-03-26 11:13:06,2024-03-26,2024-03,Tue,E-commerce,Campinas,,"Notebook 15""",Computadores,1,4449.42,0.0,0.0,4449.42,0.0,4449.42,Pix
+d8682c35,2024-03-26 21:37:32,2024-03-26,2024-03,Tue,E-commerce,Fortaleza,,Mouse Sem Fio,Periféricos,2,170.71,0.0,20.99,341.42,0.0,362.41,Pix
+3ebfba0e,2024-03-27 19:54:34,2024-03-27,2024-03,Wed,E-commerce,Florianópolis,,Teclado Mecânico,Periféricos,2,313.26,0.05,27.45,626.52,31.33,622.64,Boleto
+3eb7806e,2024-03-29 12:49:36,2024-03-29,2024-03,Fri,Marketplace,Fortaleza,,Headset Gamer,Periféricos,3,388.35,0.0,32.49,1165.05,0.0,1197.54,Débito
+77eb0714,2024-03-29 17:33:52,2024-03-29,2024-03,Fri,Loja Física,Curitiba,Daniela,Smartphone B,Celulares,2,3378.05,0.0,0.0,6756.1,0.0,6756.1,Crédito
+f16cef25,2024-03-29 18:17:05,2024-03-29,2024-03,Fri,Marketplace,Belo Horizonte,,"Monitor 24""",Periféricos,2,745.39,0.1,0.0,1490.78,149.08,1341.7,Crédito
+2b827ec9,2024-03-29 21:13:11,2024-03-29,2024-03,Fri,Loja Física,São Paulo,Eduardo,"Notebook 14""",Computadores,1,3386.47,0.0,0.0,3386.47,0.0,3386.47,Pix
+7e4a2f60,2024-03-30 10:13:35,2024-03-30,2024-03,Sat,Loja Física,Curitiba,Eduardo,"Tablet 10""",Tablets,1,1726.11,0.0,0.0,1726.11,0.0,1726.11,Crédito
+ca35b1fb,2024-03-30 17:25:56,2024-03-30,2024-03,Sat,E-commerce,São Paulo,,Smartphone A,Celulares,2,1986.61,0.05,0.0,3973.22,198.66,3774.56,Crédito
+852104fe,2024-03-30 20:38:26,2024-03-30,2024-03,Sat,Loja Física,Belo Horizonte,Fernanda,Mouse Sem Fio,Periféricos,1,145.93,0.0,0.0,145.93,0.0,145.93,Crédito
+c5c7284a,2024-03-31 10:02:50,2024-03-31,2024-03,Sun,E-commerce,Florianópolis,,"Monitor 24""",Periféricos,3,769.07,0.0,17.35,2307.21,0.0,2324.56,Crédito
+8e650af5,2024-04-01 15:09:06,2024-04-01,2024-04,Mon,E-commerce,Salvador,,"Notebook 14""",Computadores,1,3114.33,0.0,0.0,3114.33,0.0,3114.33,Crédito
+86c2e2d9,2024-04-01 19:09:29,2024-04-01,2024-04,Mon,Marketplace,Recife,,"Notebook 15""",Computadores,1,4268.7,0.1,29.66,4268.7,426.87,3871.49,Débito
+06bdb550,2024-04-01 19:38:23,2024-04-01,2024-04,Mon,E-commerce,Fortaleza,,"Monitor 24""",Periféricos,2,1056.06,0.0,0.0,2112.12,0.0,2112.12,Crédito
+a2232eaa,2024-04-01 19:58:33,2024-04-01,2024-04,Mon,Loja Física,Fortaleza,Carlos,Smartphone B,Celulares,2,3180.15,0.0,0.0,6360.3,0.0,6360.3,Boleto
+61120aa1,2024-04-01 21:45:49,2024-04-01,2024-04,Mon,E-commerce,Campinas,,Smartphone B,Celulares,2,3555.04,0.0,31.3,7110.08,0.0,7141.38,Crédito
+e76e7c74,2024-04-02 10:29:22,2024-04-02,2024-04,Tue,Loja Física,Belo Horizonte,Bruno,Teclado Mecânico,Periféricos,2,366.4,0.0,0.0,732.8,0.0,732.8,Crédito
+aebc4201,2024-04-02 12:35:48,2024-04-02,2024-04,Tue,E-commerce,Belo Horizonte,,Smartphone B,Celulares,1,3800.36,0.1,0.0,3800.36,380.04,3420.32,Débito
+7a54dbaf,2024-04-02 19:28:52,2024-04-02,2024-04,Tue,Marketplace,Recife,,Câmera Web HD,Periféricos,2,290.9,0.0,0.0,581.8,0.0,581.8,Pix
+e80778f7,2024-04-02 19:30:50,2024-04-02,2024-04,Tue,E-commerce,Curitiba,,"Notebook 15""",Computadores,1,3918.07,0.05,23.7,3918.07,195.9,3745.87,Pix
+0867a291,2024-04-03 09:34:12,2024-04-03,2024-04,Wed,Loja Física,Campinas,Bruno,Teclado Mecânico,Periféricos,1,362.04,0.0,0.0,362.04,0.0,362.04,Débito
+be0cac2a,2024-04-03 11:43:17,2024-04-03,2024-04,Wed,E-commerce,São Paulo,,Smartphone A,Celulares,2,2596.41,0.0,0.0,5192.82,0.0,5192.82,Pix
+b50f574e,2024-04-03 12:41:50,2024-04-03,2024-04,Wed,E-commerce,Porto Alegre,,"Monitor 24""",Periféricos,3,747.77,0.0,15.1,2243.31,0.0,2258.41,Crédito
+285cdb8c,2024-04-04 11:23:34,2024-04-04,2024-04,Thu,Loja Física,Curitiba,Eduardo,Mouse Sem Fio,Periféricos,2,166.43,0.0,0.0,332.86,0.0,332.86,Pix
+f44912fd,2024-04-04 11:57:33,2024-04-04,2024-04,Thu,Loja Física,Curitiba,Daniela,Headset Gamer,Periféricos,3,383.77,0.0,0.0,1151.31,0.0,1151.31,Débito
+72161bd7,2024-04-04 14:56:32,2024-04-04,2024-04,Thu,Loja Física,São Paulo,Ana,Headset Gamer,Periféricos,1,385.72,0.0,0.0,385.72,0.0,385.72,Débito
+971e029c,2024-04-04 15:02:31,2024-04-04,2024-04,Thu,Loja Física,Salvador,Eduardo,Teclado Mecânico,Periféricos,2,454.63,0.1,0.0,909.26,90.93,818.33,Crédito
+5ec11a60,2024-04-04 16:10:02,2024-04-04,2024-04,Thu,E-commerce,Florianópolis,,"Notebook 14""",Computadores,2,4185.14,0.15,16.54,8370.28,1255.54,7131.28,Débito
+24262789,2024-04-04 20:44:25,2024-04-04,2024-04,Thu,Loja Física,Fortaleza,Ana,"Tablet 10""",Tablets,3,1718.01,0.0,0.0,5154.03,0.0,5154.03,Pix
+b202412d,2024-04-05 11:40:59,2024-04-05,2024-04,Fri,E-commerce,Porto Alegre,,Teclado Mecânico,Periféricos,1,310.35,0.0,22.97,310.35,0.0,333.32,Pix
+9622bfd2,2024-04-05 12:21:07,2024-04-05,2024-04,Fri,E-commerce,Salvador,,Smartphone B,Celulares,2,3507.22,0.0,21.75,7014.44,0.0,7036.19,Crédito
+60b3b36a,2024-04-05 19:17:24,2024-04-05,2024-04,Fri,Marketplace,Rio de Janeiro,,Smartphone A,Celulares,1,2253.09,0.2,29.06,2253.09,450.62,1831.53,Pix
+81b47f37,2024-04-07 11:16:36,2024-04-07,2024-04,Sun,E-commerce,Campinas,,"Tablet 10""",Tablets,5,1891.04,0.0,20.3,9455.2,0.0,9475.5,Crédito
+94da20f1,2024-04-08 10:34:51,2024-04-08,2024-04,Mon,Loja Física,Recife,Fernanda,Câmera Web HD,Periféricos,2,260.97,0.2,0.0,521.94,104.39,417.55,Crédito
+bb9fead1,2024-04-08 14:01:19,2024-04-08,2024-04,Mon,Loja Física,Porto Alegre,Bruno,Smartphone B,Celulares,1,3432.54,0.0,0.0,3432.54,0.0,3432.54,Crédito
+6c26524b,2024-04-08 17:16:11,2024-04-08,2024-04,Mon,E-commerce,Salvador,,"Notebook 14""",Computadores,1,3672.89,0.0,0.0,3672.89,0.0,3672.89,Pix
+8e9877f5,2024-04-08 19:17:53,2024-04-08,2024-04,Mon,E-commerce,São Paulo,,Câmera Web HD,Periféricos,2,250.01,0.0,22.55,500.02,0.0,522.57,Pix
+ec81910e,2024-04-09 11:01:54,2024-04-09,2024-04,Tue,E-commerce,Rio de Janeiro,,Teclado Mecânico,Periféricos,1,367.72,0.0,35.07,367.72,0.0,402.79,Pix
+6ba278f3,2024-04-09 12:06:02,2024-04-09,2024-04,Tue,E-commerce,Salvador,,"Tablet 10""",Tablets,1,1659.91,0.0,13.95,1659.91,0.0,1673.86,Boleto
+7b386bad,2024-04-09 20:26:56,2024-04-09,2024-04,Tue,Loja Física,Florianópolis,Daniela,Teclado Mecânico,Periféricos,2,457.45,0.0,0.0,914.9,0.0,914.9,Boleto
+2d6f875c,2024-04-09 20:49:03,2024-04-09,2024-04,Tue,E-commerce,Fortaleza,,Teclado Mecânico,Periféricos,1,356.32,0.0,0.0,356.32,0.0,356.32,Crédito
+4cd897c5,2024-04-09 21:00:11,2024-04-09,2024-04,Tue,Loja Física,Fortaleza,Ana,Mouse Sem Fio,Periféricos,3,126.26,0.05,0.0,378.78,18.94,359.84,Crédito
+b266af54,2024-04-10 10:11:21,2024-04-10,2024-04,Wed,Loja Física,Salvador,Carlos,"Notebook 15""",Computadores,1,4196.18,0.0,0.0,4196.18,0.0,4196.18,Pix
+4affe732,2024-04-10 10:39:11,2024-04-10,2024-04,Wed,E-commerce,Porto Alegre,,"Notebook 15""",Computadores,1,2971.26,0.05,16.78,2971.26,148.56,2839.48,Pix
+ab4d4325,2024-04-10 15:36:07,2024-04-10,2024-04,Wed,E-commerce,Salvador,,"Monitor 24""",Periféricos,1,977.35,0.1,22.9,977.35,97.74,902.51,Crédito
+542378fb,2024-04-10 15:36:53,2024-04-10,2024-04,Wed,Marketplace,Curitiba,,Teclado Mecânico,Periféricos,2,442.03,0.0,20.44,884.06,0.0,904.5,Crédito
+724cd5d0,2024-04-11 12:06:50,2024-04-11,2024-04,Thu,Marketplace,Fortaleza,,Mouse Sem Fio,Periféricos,1,152.94,0.0,26.94,152.94,0.0,179.88,Crédito
+5253b67b,2024-04-11 21:06:15,2024-04-11,2024-04,Thu,E-commerce,Curitiba,,"Tablet 10""",Tablets,4,1830.16,0.0,26.54,7320.64,0.0,7347.18,Débito
+ab3e7812,2024-04-12 14:04:04,2024-04-12,2024-04,Fri,Marketplace,Salvador,,"Monitor 24""",Periféricos,1,872.72,0.0,23.82,872.72,0.0,896.54,Crédito
+ff0c8bfb,2024-04-12 21:11:35,2024-04-12,2024-04,Fri,Loja Física,Campinas,Ana,"Notebook 15""",Computadores,3,4271.85,0.0,0.0,12815.55,0.0,12815.55,Crédito
+6a125e35,2024-04-13 11:43:57,2024-04-13,2024-04,Sat,Loja Física,São Paulo,Daniela,Mouse Sem Fio,Periféricos,1,158.06,0.0,0.0,158.06,0.0,158.06,Crédito
+734e8497,2024-04-14 12:37:07,2024-04-14,2024-04,Sun,Marketplace,Recife,,Teclado Mecânico,Periféricos,3,350.38,0.0,0.0,1051.14,0.0,1051.14,Crédito
+a9ef9b89,2024-04-14 14:45:03,2024-04-14,2024-04,Sun,E-commerce,Curitiba,,"Notebook 15""",Computadores,1,4537.18,0.0,27.01,4537.18,0.0,4564.19,Crédito
+4bb67000,2024-04-15 21:37:31,2024-04-15,2024-04,Mon,Loja Física,Porto Alegre,Bruno,Headset Gamer,Periféricos,3,421.9,0.0,0.0,1265.7,0.0,1265.7,Débito
+b612db0a,2024-04-16 10:08:52,2024-04-16,2024-04,Tue,E-commerce,Recife,,"Tablet 10""",Tablets,1,1979.02,0.0,12.08,1979.02,0.0,1991.1,Crédito
+73153c97,2024-04-16 10:36:44,2024-04-16,2024-04,Tue,Loja Física,Campinas,Carlos,Smartphone B,Celulares,2,3623.7,0.0,0.0,7247.4,0.0,7247.4,Débito
+0521b507,2024-04-16 20:24:49,2024-04-16,2024-04,Tue,Loja Física,Recife,Ana,"Notebook 14""",Computadores,1,3295.59,0.0,0.0,3295.59,0.0,3295.59,Pix
+74b5a941,2024-04-16 20:53:31,2024-04-16,2024-04,Tue,Marketplace,Fortaleza,,Smartphone A,Celulares,2,2628.73,0.15,25.33,5257.46,788.62,4494.17,Crédito
+fa94cc16,2024-04-17 11:57:45,2024-04-17,2024-04,Wed,Marketplace,Fortaleza,,"Tablet 10""",Tablets,1,1594.34,0.0,0.0,1594.34,0.0,1594.34,Pix
+be02de5c,2024-04-17 18:39:31,2024-04-17,2024-04,Wed,Loja Física,Campinas,Fernanda,Smartphone B,Celulares,2,2834.53,0.0,0.0,5669.06,0.0,5669.06,Débito
+7b62e937,2024-04-17 21:03:09,2024-04-17,2024-04,Wed,E-commerce,Belo Horizonte,,"Monitor 24""",Periféricos,5,785.84,0.0,18.41,3929.2,0.0,3947.61,Débito
+91cb46c7,2024-04-18 12:24:03,2024-04-18,2024-04,Thu,Marketplace,Salvador,,Câmera Web HD,Periféricos,1,228.5,0.0,34.79,228.5,0.0,263.29,Pix
+6c85a18a,2024-04-18 13:46:24,2024-04-18,2024-04,Thu,E-commerce,São Paulo,,"Notebook 14""",Computadores,1,3418.05,0.0,20.83,3418.05,0.0,3438.88,Crédito
+00a0f191,2024-04-18 19:48:12,2024-04-18,2024-04,Thu,Marketplace,Belo Horizonte,,Smartphone B,Celulares,2,2983.63,0.0,29.04,5967.26,0.0,5996.3,Crédito
+5f084ed5,2024-04-19 12:58:38,2024-04-19,2024-04,Fri,Marketplace,Belo Horizonte,,Câmera Web HD,Periféricos,3,226.99,0.0,0.0,680.97,0.0,680.97,Débito
+cd371902,2024-04-19 19:33:05,2024-04-19,2024-04,Fri,E-commerce,Porto Alegre,,Smartphone B,Celulares,2,4311.5,0.0,19.69,8623.0,0.0,8642.69,Débito
+2998361c,2024-04-20 11:30:54,2024-04-20,2024-04,Sat,E-commerce,São Paulo,,Smartphone A,Celulares,2,2038.06,0.0,25.08,4076.12,0.0,4101.2,Pix
+497fa742,2024-04-20 12:56:16,2024-04-20,2024-04,Sat,E-commerce,Porto Alegre,,Mouse Sem Fio,Periféricos,3,150.71,0.05,24.16,452.13,22.61,453.68,Pix
+ac59b78b,2024-04-20 19:22:46,2024-04-20,2024-04,Sat,E-commerce,Rio de Janeiro,,"Notebook 15""",Computadores,2,4242.65,0.0,15.15,8485.3,0.0,8500.45,Crédito
+3cc468f9,2024-04-21 10:05:46,2024-04-21,2024-04,Sun,Marketplace,Curitiba,,"Monitor 24""",Periféricos,4,803.74,0.15,32.52,3214.96,482.24,2765.24,Crédito
+0ec69a04,2024-04-22 11:05:02,2024-04-22,2024-04,Mon,Loja Física,Porto Alegre,Daniela,Smartphone B,Celulares,1,3964.51,0.0,0.0,3964.51,0.0,3964.51,Pix
+9747139b,2024-04-22 20:26:39,2024-04-22,2024-04,Mon,Loja Física,Florianópolis,Carlos,Mouse Sem Fio,Periféricos,1,204.87,0.0,0.0,204.87,0.0,204.87,Crédito
+8b40acc0,2024-04-22 21:44:51,2024-04-22,2024-04,Mon,E-commerce,Belo Horizonte,,"Notebook 14""",Computadores,2,3400.37,0.0,38.79,6800.74,0.0,6839.53,Pix
+188cd370,2024-04-23 10:27:19,2024-04-23,2024-04,Tue,Loja Física,Curitiba,Carlos,Teclado Mecânico,Periféricos,1,323.55,0.0,0.0,323.55,0.0,323.55,Crédito
+bdf27db3,2024-04-23 11:00:54,2024-04-23,2024-04,Tue,Loja Física,São Paulo,Daniela,"Tablet 10""",Tablets,3,1947.63,0.15,0.0,5842.89,876.43,4966.46,Pix
+06f6a585,2024-04-23 21:08:33,2024-04-23,2024-04,Tue,Loja Física,Porto Alegre,Bruno,"Tablet 10""",Tablets,2,1682.83,0.0,0.0,3365.66,0.0,3365.66,Pix
+beee259f,2024-04-24 09:45:36,2024-04-24,2024-04,Wed,E-commerce,Belo Horizonte,,Smartphone B,Celulares,2,3889.2,0.05,30.07,7778.4,388.92,7419.55,Pix
+f4830710,2024-04-24 10:19:20,2024-04-24,2024-04,Wed,Loja Física,Fortaleza,Bruno,"Notebook 14""",Computadores,1,2935.76,0.0,0.0,2935.76,0.0,2935.76,Débito
+e8e4fe24,2024-04-24 11:42:57,2024-04-24,2024-04,Wed,Marketplace,Recife,,Câmera Web HD,Periféricos,2,249.56,0.0,0.0,499.12,0.0,499.12,Crédito
+31b74cc7,2024-04-24 11:58:22,2024-04-24,2024-04,Wed,Loja Física,Belo Horizonte,Bruno,Câmera Web HD,Periféricos,3,273.74,0.15,0.0,821.22,123.18,698.04,Pix
+595e638a,2024-04-24 12:24:33,2024-04-24,2024-04,Wed,Loja Física,Fortaleza,Daniela,Smartphone A,Celulares,1,2030.09,0.0,0.0,2030.09,0.0,2030.09,Crédito
+a9d049ec,2024-04-24 13:10:05,2024-04-24,2024-04,Wed,E-commerce,Recife,,"Tablet 10""",Tablets,1,2049.89,0.05,26.7,2049.89,102.49,1974.1,Crédito
+b227b87c,2024-04-24 13:41:35,2024-04-24,2024-04,Wed,Loja Física,Belo Horizonte,Eduardo,Headset Gamer,Periféricos,1,421.95,0.15,0.0,421.95,63.29,358.66,Boleto
+73011e91,2024-04-24 20:24:29,2024-04-24,2024-04,Wed,Loja Física,Recife,Ana,"Notebook 14""",Computadores,1,2938.72,0.0,0.0,2938.72,0.0,2938.72,Débito
+bc8457d6,2024-04-24 21:28:30,2024-04-24,2024-04,Wed,Marketplace,Rio de Janeiro,,"Tablet 10""",Tablets,2,1819.16,0.0,0.0,3638.32,0.0,3638.32,Crédito
+6170a4ff,2024-04-25 10:24:44,2024-04-25,2024-04,Thu,Loja Física,Campinas,Bruno,"Tablet 10""",Tablets,1,1761.89,0.05,0.0,1761.89,88.09,1673.8,Débito
+5e426fff,2024-04-25 11:24:17,2024-04-25,2024-04,Thu,E-commerce,Florianópolis,,"Monitor 24""",Periféricos,2,1009.16,0.0,0.0,2018.32,0.0,2018.32,Pix
+1ce511ca,2024-04-25 12:28:07,2024-04-25,2024-04,Thu,E-commerce,Recife,,Smartphone A,Celulares,2,2282.53,0.05,13.86,4565.06,228.25,4350.67,Crédito
+6e2eb0ee,2024-04-25 18:59:54,2024-04-25,2024-04,Thu,Loja Física,Curitiba,Bruno,Headset Gamer,Periféricos,3,364.21,0.0,0.0,1092.63,0.0,1092.63,Crédito
+2d6aa999,2024-04-26 09:05:23,2024-04-26,2024-04,Fri,Loja Física,Campinas,Daniela,Mouse Sem Fio,Periféricos,3,185.52,0.0,0.0,556.56,0.0,556.56,Pix
+ff7ae430,2024-04-26 11:24:12,2024-04-26,2024-04,Fri,Loja Física,Salvador,Bruno,"Notebook 14""",Computadores,2,3216.66,0.0,0.0,6433.32,0.0,6433.32,Pix
+52cd1397,2024-04-26 15:18:44,2024-04-26,2024-04,Fri,Loja Física,Florianópolis,Fernanda,Teclado Mecânico,Periféricos,2,300.45,0.2,0.0,600.9,120.18,480.72,Débito
+7b77e9c2,2024-04-26 18:27:01,2024-04-26,2024-04,Fri,Loja Física,Porto Alegre,Fernanda,"Tablet 10""",Tablets,1,1524.92,0.15,0.0,1524.92,228.74,1296.18,Pix
+24bd952d,2024-04-26 21:23:53,2024-04-26,2024-04,Fri,Marketplace,Fortaleza,,Smartphone A,Celulares,1,2169.18,0.05,0.0,2169.18,108.46,2060.72,Débito
+fdbd1a80,2024-04-27 10:53:52,2024-04-27,2024-04,Sat,Marketplace,Florianópolis,,"Notebook 14""",Computadores,1,3863.39,0.05,32.2,3863.39,193.17,3702.42,Pix
+269f5d74,2024-04-27 12:04:00,2024-04-27,2024-04,Sat,Marketplace,Fortaleza,,"Notebook 14""",Computadores,1,3176.85,0.0,21.65,3176.85,0.0,3198.5,Crédito
+30189859,2024-04-27 20:02:19,2024-04-27,2024-04,Sat,E-commerce,Salvador,,"Monitor 24""",Periféricos,3,801.86,0.05,34.41,2405.58,120.28,2319.71,Crédito
+06e8240f,2024-04-28 11:14:08,2024-04-28,2024-04,Sun,E-commerce,Curitiba,,Teclado Mecânico,Periféricos,2,352.64,0.0,0.0,705.28,0.0,705.28,Débito
+6dc5ffa5,2024-04-29 09:11:26,2024-04-29,2024-04,Mon,Loja Física,Recife,Carlos,Smartphone B,Celulares,1,3135.44,0.0,0.0,3135.44,0.0,3135.44,Crédito
+85404503,2024-04-29 19:48:57,2024-04-29,2024-04,Mon,Marketplace,São Paulo,,Smartphone A,Celulares,1,2040.11,0.0,0.0,2040.11,0.0,2040.11,Crédito
+d6fe6ad5,2024-04-30 09:46:11,2024-04-30,2024-04,Tue,Loja Física,Campinas,Ana,Headset Gamer,Periféricos,1,389.03,0.0,0.0,389.03,0.0,389.03,Crédito
+44244c51,2024-04-30 10:09:29,2024-04-30,2024-04,Tue,E-commerce,São Paulo,,"Notebook 15""",Computadores,2,4909.38,0.0,32.74,9818.76,0.0,9851.5,Pix
+83d86a34,2024-04-30 12:46:55,2024-04-30,2024-04,Tue,E-commerce,Curitiba,,Smartphone B,Celulares,2,2779.97,0.15,34.87,5559.94,833.99,4760.82,Pix
+368b2133,2024-04-30 19:46:13,2024-04-30,2024-04,Tue,E-commerce,Recife,,Mouse Sem Fio,Periféricos,1,152.5,0.15,25.49,152.5,22.88,155.11,Crédito
+a93d362e,2024-05-01 15:31:16,2024-05-01,2024-05,Wed,E-commerce,Recife,,Smartphone A,Celulares,1,2403.73,0.05,29.11,2403.73,120.19,2312.65,Débito
+b85f20a0,2024-05-02 12:39:53,2024-05-02,2024-05,Thu,Loja Física,Rio de Janeiro,Daniela,Teclado Mecânico,Periféricos,2,354.89,0.0,0.0,709.78,0.0,709.78,Crédito
+e18dac1d,2024-05-02 20:42:00,2024-05-02,2024-05,Thu,E-commerce,Belo Horizonte,,Mouse Sem Fio,Periféricos,1,154.4,0.05,36.45,154.4,7.72,183.13,Pix
+3a63a954,2024-05-03 11:20:05,2024-05-03,2024-05,Fri,E-commerce,Fortaleza,,Mouse Sem Fio,Periféricos,2,168.6,0.0,27.11,337.2,0.0,364.31,Crédito
+92b256ee,2024-05-03 11:49:43,2024-05-03,2024-05,Fri,E-commerce,Florianópolis,,Mouse Sem Fio,Periféricos,2,166.26,0.05,36.18,332.52,16.63,352.07,Crédito
+c81c5f36,2024-05-05 13:24:47,2024-05-05,2024-05,Sun,E-commerce,Fortaleza,,Mouse Sem Fio,Periféricos,1,155.01,0.0,20.14,155.01,0.0,175.15,Débito
+30ce130f,2024-05-05 21:34:51,2024-05-05,2024-05,Sun,Loja Física,Curitiba,Daniela,Smartphone A,Celulares,2,2330.67,0.0,0.0,4661.34,0.0,4661.34,Crédito
+2ca0f1e1,2024-05-06 11:14:33,2024-05-06,2024-05,Mon,E-commerce,Recife,,Smartphone A,Celulares,1,2207.42,0.0,25.25,2207.42,0.0,2232.67,Crédito
+d4ef2d8c,2024-05-06 12:45:35,2024-05-06,2024-05,Mon,Loja Física,Fortaleza,Ana,Smartphone A,Celulares,1,2122.71,0.05,0.0,2122.71,106.14,2016.57,Crédito
+f31a80f3,2024-05-06 20:17:01,2024-05-06,2024-05,Mon,Loja Física,Campinas,Daniela,"Monitor 24""",Periféricos,3,779.15,0.0,0.0,2337.45,0.0,2337.45,Débito
+2942c8f4,2024-05-06 21:17:49,2024-05-06,2024-05,Mon,Marketplace,Porto Alegre,,Teclado Mecânico,Periféricos,1,425.73,0.0,29.48,425.73,0.0,455.21,Crédito
+559268c8,2024-05-06 21:26:02,2024-05-06,2024-05,Mon,E-commerce,São Paulo,,"Tablet 10""",Tablets,1,1473.96,0.0,0.0,1473.96,0.0,1473.96,Pix
+6dd6ec85,2024-05-07 10:13:19,2024-05-07,2024-05,Tue,Loja Física,Florianópolis,Bruno,"Monitor 24""",Periféricos,1,905.58,0.0,0.0,905.58,0.0,905.58,Crédito
+f7acc8c4,2024-05-07 17:29:13,2024-05-07,2024-05,Tue,E-commerce,Fortaleza,,"Tablet 10""",Tablets,3,1412.99,0.0,25.29,4238.97,0.0,4264.26,Crédito
+5b8c5611,2024-05-07 17:36:19,2024-05-07,2024-05,Tue,Loja Física,Fortaleza,Carlos,"Notebook 15""",Computadores,1,3963.12,0.0,0.0,3963.12,0.0,3963.12,Crédito
+fe245e88,2024-05-07 20:55:27,2024-05-07,2024-05,Tue,Loja Física,Rio de Janeiro,Carlos,Smartphone A,Celulares,1,2220.93,0.05,0.0,2220.93,111.05,2109.88,Crédito
+7bc9c2b7,2024-05-07 21:45:33,2024-05-07,2024-05,Tue,E-commerce,Recife,,"Notebook 14""",Computadores,1,3688.14,0.0,18.05,3688.14,0.0,3706.19,Crédito
+f33b8c7b,2024-05-08 10:34:00,2024-05-08,2024-05,Wed,Loja Física,Rio de Janeiro,Daniela,Mouse Sem Fio,Periféricos,1,136.87,0.0,0.0,136.87,0.0,136.87,Boleto
+42523188,2024-05-08 19:45:15,2024-05-08,2024-05,Wed,E-commerce,São Paulo,,Smartphone A,Celulares,2,1846.6,0.05,21.45,3693.2,184.66,3529.99,Débito
+76c717dd,2024-05-08 21:32:05,2024-05-08,2024-05,Wed,Loja Física,Belo Horizonte,Fernanda,Smartphone B,Celulares,3,3471.81,0.0,0.0,10415.43,0.0,10415.43,Pix
+292a7424,2024-05-09 11:44:40,2024-05-09,2024-05,Thu,Marketplace,Fortaleza,,"Tablet 10""",Tablets,2,1796.92,0.0,28.94,3593.84,0.0,3622.78,Débito
+39dbd299,2024-05-09 15:01:13,2024-05-09,2024-05,Thu,E-commerce,Fortaleza,,Teclado Mecânico,Periféricos,3,453.3,0.0,25.5,1359.9,0.0,1385.4,Pix
+e0962bfd,2024-05-09 20:36:36,2024-05-09,2024-05,Thu,Loja Física,Florianópolis,Fernanda,Smartphone A,Celulares,2,2702.37,0.0,0.0,5404.74,0.0,5404.74,Crédito
+7e5b8e5d,2024-05-10 10:39:44,2024-05-10,2024-05,Fri,Marketplace,Belo Horizonte,,Headset Gamer,Periféricos,1,511.25,0.0,19.85,511.25,0.0,531.1,Débito
+674b2495,2024-05-11 16:34:43,2024-05-11,2024-05,Sat,Loja Física,Rio de Janeiro,Eduardo,Câmera Web HD,Periféricos,1,255.73,0.0,0.0,255.73,0.0,255.73,Crédito
+41f9001e,2024-05-11 21:54:45,2024-05-11,2024-05,Sat,Marketplace,Porto Alegre,,"Monitor 24""",Periféricos,2,842.65,0.0,0.0,1685.3,0.0,1685.3,Pix
+f5b572a3,2024-05-12 20:04:22,2024-05-12,2024-05,Sun,E-commerce,Rio de Janeiro,,"Tablet 10""",Tablets,1,1568.2,0.0,32.35,1568.2,0.0,1600.55,Crédito
+46fc7634,2024-05-12 20:25:03,2024-05-12,2024-05,Sun,E-commerce,Recife,,Mouse Sem Fio,Periféricos,1,134.54,0.0,37.28,134.54,0.0,171.82,Débito
+d407652e,2024-05-12 20:42:45,2024-05-12,2024-05,Sun,Marketplace,Fortaleza,,"Notebook 14""",Computadores,2,3596.47,0.05,30.42,7192.94,359.65,6863.71,Crédito
+7c2790fe,2024-05-13 11:34:05,2024-05-13,2024-05,Mon,Loja Física,Belo Horizonte,Daniela,Teclado Mecânico,Periféricos,3,391.34,0.0,0.0,1174.02,0.0,1174.02,Pix
+706312e2,2024-05-13 15:55:48,2024-05-13,2024-05,Mon,Loja Física,Fortaleza,Fernanda,Smartphone B,Celulares,1,3139.65,0.1,0.0,3139.65,313.97,2825.68,Crédito
+124ab436,2024-05-14 10:34:36,2024-05-14,2024-05,Tue,Loja Física,Belo Horizonte,Eduardo,Teclado Mecânico,Periféricos,3,308.01,0.0,0.0,924.03,0.0,924.03,Crédito
+2d9eeddd,2024-05-14 11:46:13,2024-05-14,2024-05,Tue,Loja Física,Recife,Daniela,Mouse Sem Fio,Periféricos,1,159.92,0.0,0.0,159.92,0.0,159.92,Boleto
+1d87eb60,2024-05-15 15:51:03,2024-05-15,2024-05,Wed,Loja Física,Porto Alegre,Fernanda,"Notebook 14""",Computadores,1,3687.11,0.0,0.0,3687.11,0.0,3687.11,Débito
+5954dee0,2024-05-15 20:49:44,2024-05-15,2024-05,Wed,E-commerce,Salvador,,"Notebook 15""",Computadores,3,4179.92,0.05,19.75,12539.76,626.99,11932.52,Crédito
+da1d9df8,2024-05-16 10:56:24,2024-05-16,2024-05,Thu,E-commerce,Recife,,Headset Gamer,Periféricos,4,490.15,0.0,25.51,1960.6,0.0,1986.11,Crédito
+563c6b7e,2024-05-16 12:09:08,2024-05-16,2024-05,Thu,Loja Física,Campinas,Fernanda,Headset Gamer,Periféricos,1,457.08,0.0,0.0,457.08,0.0,457.08,Pix
+1aa0c460,2024-05-16 15:21:53,2024-05-16,2024-05,Thu,E-commerce,Rio de Janeiro,,Câmera Web HD,Periféricos,2,234.47,0.0,22.93,468.94,0.0,491.87,Débito
+3b160f76,2024-05-16 16:55:43,2024-05-16,2024-05,Thu,Marketplace,Campinas,,Smartphone A,Celulares,2,2203.33,0.05,33.19,4406.66,220.33,4219.52,Pix
+52e16732,2024-05-16 20:09:24,2024-05-16,2024-05,Thu,Marketplace,Campinas,,Teclado Mecânico,Periféricos,2,385.96,0.0,33.9,771.92,0.0,805.82,Crédito
+ff362a17,2024-05-16 20:25:12,2024-05-16,2024-05,Thu,E-commerce,Recife,,Smartphone A,Celulares,3,2536.71,0.0,31.08,7610.13,0.0,7641.21,Boleto
+8cb6a9be,2024-05-17 11:29:23,2024-05-17,2024-05,Fri,Marketplace,Belo Horizonte,,Câmera Web HD,Periféricos,4,223.76,0.0,0.0,895.04,0.0,895.04,Crédito
+1bee99c8,2024-05-17 12:38:50,2024-05-17,2024-05,Fri,Marketplace,Recife,,"Notebook 14""",Computadores,1,3607.48,0.05,0.0,3607.48,180.37,3427.11,Crédito
+edc8dd41,2024-05-17 19:13:08,2024-05-17,2024-05,Fri,Marketplace,São Paulo,,Headset Gamer,Periféricos,3,427.53,0.0,19.78,1282.59,0.0,1302.37,Crédito
+ed35777b,2024-05-17 21:11:00,2024-05-17,2024-05,Fri,E-commerce,Florianópolis,,Mouse Sem Fio,Periféricos,3,176.68,0.05,27.11,530.04,26.5,530.65,Crédito
+6e42e508,2024-05-20 11:53:03,2024-05-20,2024-05,Mon,Loja Física,Recife,Daniela,Teclado Mecânico,Periféricos,1,316.4,0.05,0.0,316.4,15.82,300.58,Pix
+5c7c6d04,2024-05-20 12:46:28,2024-05-20,2024-05,Mon,E-commerce,Curitiba,,Teclado Mecânico,Periféricos,2,341.07,0.0,26.08,682.14,0.0,708.22,Pix
+448b0957,2024-05-20 17:05:08,2024-05-20,2024-05,Mon,E-commerce,Porto Alegre,,"Notebook 15""",Computadores,1,5352.31,0.0,29.97,5352.31,0.0,5382.28,Débito
+bdd8947c,2024-05-20 20:12:39,2024-05-20,2024-05,Mon,Loja Física,Porto Alegre,Eduardo,"Monitor 24""",Periféricos,1,1012.36,0.0,0.0,1012.36,0.0,1012.36,Crédito
+7bec5c4f,2024-05-21 10:08:27,2024-05-21,2024-05,Tue,Loja Física,Recife,Daniela,"Notebook 14""",Computadores,3,3222.43,0.0,0.0,9667.29,0.0,9667.29,Débito
+c7d33aa5,2024-05-21 12:55:48,2024-05-21,2024-05,Tue,E-commerce,Porto Alegre,,Headset Gamer,Periféricos,2,577.11,0.05,31.2,1154.22,57.71,1127.71,Crédito
+7eac9f2c,2024-05-21 15:09:24,2024-05-21,2024-05,Tue,Marketplace,Porto Alegre,,"Monitor 24""",Periféricos,2,1087.56,0.0,31.08,2175.12,0.0,2206.2,Crédito
+f63670d6,2024-05-21 19:54:36,2024-05-21,2024-05,Tue,E-commerce,Porto Alegre,,Câmera Web HD,Periféricos,2,250.7,0.05,15.24,501.4,25.07,491.57,Boleto
+7fddf034,2024-05-22 12:33:51,2024-05-22,2024-05,Wed,Marketplace,São Paulo,,Smartphone B,Celulares,4,3790.72,0.0,17.9,15162.88,0.0,15180.78,Crédito
+3e39879d,2024-05-23 20:07:38,2024-05-23,2024-05,Thu,Loja Física,Campinas,Daniela,Smartphone B,Celulares,1,3880.63,0.0,0.0,3880.63,0.0,3880.63,Crédito
+2f6ce97a,2024-05-23 20:20:19,2024-05-23,2024-05,Thu,Marketplace,São Paulo,,"Tablet 10""",Tablets,2,2002.53,0.05,0.0,4005.06,200.25,3804.81,Boleto
+0d630056,2024-05-24 11:28:43,2024-05-24,2024-05,Fri,E-commerce,Campinas,,Mouse Sem Fio,Periféricos,4,141.44,0.0,12.52,565.76,0.0,578.28,Pix
+bb206869,2024-05-24 17:14:39,2024-05-24,2024-05,Fri,E-commerce,Rio de Janeiro,,Teclado Mecânico,Periféricos,1,447.71,0.0,0.0,447.71,0.0,447.71,Pix
+f7c02440,2024-05-24 17:58:02,2024-05-24,2024-05,Fri,Loja Física,Porto Alegre,Fernanda,Teclado Mecânico,Periféricos,3,313.79,0.0,0.0,941.37,0.0,941.37,Boleto
+a384d7ff,2024-05-24 20:43:19,2024-05-24,2024-05,Fri,E-commerce,Campinas,,"Notebook 14""",Computadores,1,2491.5,0.0,0.0,2491.5,0.0,2491.5,Pix
+3e936e04,2024-05-25 14:54:50,2024-05-25,2024-05,Sat,E-commerce,Porto Alegre,,"Monitor 24""",Periféricos,4,722.5,0.0,14.66,2890.0,0.0,2904.66,Pix
+4f1f7191,2024-05-25 16:37:50,2024-05-25,2024-05,Sat,E-commerce,Florianópolis,,Teclado Mecânico,Periféricos,6,344.43,0.05,37.92,2066.58,103.33,2001.17,Pix
+01dbf31a,2024-05-25 20:55:35,2024-05-25,2024-05,Sat,Loja Física,Salvador,Eduardo,Câmera Web HD,Periféricos,2,256.61,0.0,0.0,513.22,0.0,513.22,Pix
+43c4b1c6,2024-05-26 19:25:08,2024-05-26,2024-05,Sun,E-commerce,Curitiba,,Smartphone A,Celulares,1,2096.46,0.0,38.88,2096.46,0.0,2135.34,Crédito
+3b8a52ff,2024-05-26 21:37:01,2024-05-26,2024-05,Sun,E-commerce,Curitiba,,"Notebook 14""",Computadores,1,3144.59,0.05,0.0,3144.59,157.23,2987.36,Pix
+da49746b,2024-05-27 10:34:48,2024-05-27,2024-05,Mon,Loja Física,Porto Alegre,Fernanda,Smartphone A,Celulares,1,2284.16,0.05,0.0,2284.16,114.21,2169.95,Crédito
+9091aec2,2024-05-27 11:59:37,2024-05-27,2024-05,Mon,E-commerce,Curitiba,,Câmera Web HD,Periféricos,1,208.56,0.0,0.0,208.56,0.0,208.56,Crédito
+bba23588,2024-05-27 16:40:21,2024-05-27,2024-05,Mon,Loja Física,Campinas,Daniela,Teclado Mecânico,Periféricos,3,326.36,0.0,0.0,979.08,0.0,979.08,Débito
+4c4ad60d,2024-05-27 20:28:59,2024-05-27,2024-05,Mon,E-commerce,Belo Horizonte,,"Monitor 24""",Periféricos,1,1070.47,0.0,38.82,1070.47,0.0,1109.29,Pix
+3f5a9f66,2024-05-27 21:31:02,2024-05-27,2024-05,Mon,Loja Física,Salvador,Daniela,Headset Gamer,Periféricos,3,460.05,0.0,0.0,1380.15,0.0,1380.15,Pix
+19194301,2024-05-28 11:03:47,2024-05-28,2024-05,Tue,E-commerce,Porto Alegre,,Headset Gamer,Periféricos,2,524.47,0.0,16.55,1048.94,0.0,1065.49,Pix
+eee8cc80,2024-05-28 11:20:48,2024-05-28,2024-05,Tue,E-commerce,Salvador,,Headset Gamer,Periféricos,3,459.78,0.15,32.93,1379.34,206.9,1205.37,Crédito
+34de110d,2024-05-28 12:07:30,2024-05-28,2024-05,Tue,E-commerce,Salvador,,"Monitor 24""",Periféricos,3,957.16,0.0,0.0,2871.48,0.0,2871.48,Crédito
+f4034e86,2024-05-28 19:10:35,2024-05-28,2024-05,Tue,Loja Física,Recife,Fernanda,Headset Gamer,Periféricos,3,457.33,0.0,0.0,1371.99,0.0,1371.99,Crédito
+ad86827a,2024-05-29 11:32:35,2024-05-29,2024-05,Wed,Loja Física,Porto Alegre,Eduardo,Headset Gamer,Periféricos,1,370.7,0.05,0.0,370.7,18.54,352.16,Crédito
+d3494988,2024-05-29 18:21:38,2024-05-29,2024-05,Wed,E-commerce,Recife,,Câmera Web HD,Periféricos,2,259.39,0.0,0.0,518.78,0.0,518.78,Crédito
+c08c1f75,2024-05-30 10:52:36,2024-05-30,2024-05,Thu,E-commerce,Recife,,Smartphone A,Celulares,1,2080.02,0.0,16.94,2080.02,0.0,2096.96,Crédito
+2bf1ee98,2024-05-30 11:10:29,2024-05-30,2024-05,Thu,Loja Física,Porto Alegre,Daniela,"Notebook 14""",Computadores,1,3008.81,0.1,0.0,3008.81,300.88,2707.93,Pix
+82152b37,2024-05-30 21:03:25,2024-05-30,2024-05,Thu,E-commerce,Recife,,"Notebook 14""",Computadores,3,3743.63,0.0,15.77,11230.89,0.0,11246.66,Crédito
+1b7bce8e,2024-05-31 11:20:26,2024-05-31,2024-05,Fri,E-commerce,Fortaleza,,Smartphone B,Celulares,1,3015.69,0.0,15.65,3015.69,0.0,3031.34,Crédito
+ae86d99a,2024-05-31 20:52:33,2024-05-31,2024-05,Fri,Loja Física,Recife,Daniela,Mouse Sem Fio,Periféricos,3,174.0,0.0,0.0,522.0,0.0,522.0,Crédito
+aac158d0,2024-06-02 12:10:50,2024-06-02,2024-06,Sun,E-commerce,Rio de Janeiro,,Smartphone A,Celulares,2,2055.7,0.0,17.61,4111.4,0.0,4129.01,Pix
+57b92f36,2024-06-03 18:42:33,2024-06-03,2024-06,Mon,Loja Física,Rio de Janeiro,Eduardo,"Notebook 14""",Computadores,2,3799.03,0.0,0.0,7598.06,0.0,7598.06,Pix
+a9db5cf4,2024-06-03 20:27:59,2024-06-03,2024-06,Mon,Loja Física,Belo Horizonte,Daniela,"Notebook 14""",Computadores,1,2817.17,0.0,0.0,2817.17,0.0,2817.17,Crédito
+268d45af,2024-06-04 10:25:07,2024-06-04,2024-06,Tue,E-commerce,Florianópolis,,Smartphone B,Celulares,1,3622.55,0.0,30.17,3622.55,0.0,3652.72,Crédito
+fee6cd0a,2024-06-04 12:33:59,2024-06-04,2024-06,Tue,Loja Física,Fortaleza,Carlos,Mouse Sem Fio,Periféricos,1,146.78,0.0,0.0,146.78,0.0,146.78,Crédito
+0d36029f,2024-06-04 21:19:49,2024-06-04,2024-06,Tue,E-commerce,Florianópolis,,"Notebook 15""",Computadores,1,4239.56,0.0,24.8,4239.56,0.0,4264.36,Crédito
+2603b494,2024-06-05 09:54:20,2024-06-05,2024-06,Wed,E-commerce,Belo Horizonte,,Smartphone B,Celulares,3,3079.02,0.0,16.25,9237.06,0.0,9253.31,Pix
+ca7238b0,2024-06-05 19:48:19,2024-06-05,2024-06,Wed,E-commerce,Campinas,,"Monitor 24""",Periféricos,1,743.26,0.0,25.67,743.26,0.0,768.93,Crédito
+31034ce2,2024-06-05 20:43:49,2024-06-05,2024-06,Wed,E-commerce,Curitiba,,Mouse Sem Fio,Periféricos,1,179.7,0.15,38.51,179.7,26.96,191.25,Pix
+7ec20867,2024-06-06 10:25:24,2024-06-06,2024-06,Thu,E-commerce,Porto Alegre,,"Notebook 15""",Computadores,4,4558.2,0.0,16.46,18232.8,0.0,18249.26,Pix
+7a93d4e1,2024-06-06 20:17:14,2024-06-06,2024-06,Thu,Marketplace,Florianópolis,,"Tablet 10""",Tablets,1,1985.84,0.15,0.0,1985.84,297.88,1687.96,Crédito
+9518971e,2024-06-06 20:17:39,2024-06-06,2024-06,Thu,E-commerce,Florianópolis,,Smartphone B,Celulares,2,3486.36,0.0,37.03,6972.72,0.0,7009.75,Débito
+022fad40,2024-06-07 12:36:43,2024-06-07,2024-06,Fri,Marketplace,Recife,,Câmera Web HD,Periféricos,1,249.03,0.0,36.05,249.03,0.0,285.08,Débito
+a205f71d,2024-06-07 12:43:09,2024-06-07,2024-06,Fri,Loja Física,Florianópolis,Ana,"Monitor 24""",Periféricos,2,1063.31,0.0,0.0,2126.62,0.0,2126.62,Crédito
+3c43cadc,2024-06-07 12:53:22,2024-06-07,2024-06,Fri,Loja Física,Recife,Daniela,"Notebook 14""",Computadores,1,4144.02,0.0,0.0,4144.02,0.0,4144.02,Débito
+5ec4e0bc,2024-06-07 15:28:28,2024-06-07,2024-06,Fri,E-commerce,Recife,,"Notebook 14""",Computadores,1,3782.57,0.0,0.0,3782.57,0.0,3782.57,Boleto
+c523373e,2024-06-10 11:03:17,2024-06-10,2024-06,Mon,E-commerce,São Paulo,,Smartphone B,Celulares,2,3448.77,0.0,34.5,6897.54,0.0,6932.04,Crédito
+667e96a0,2024-06-10 11:40:40,2024-06-10,2024-06,Mon,E-commerce,Belo Horizonte,,Teclado Mecânico,Periféricos,2,351.54,0.1,14.15,703.08,70.31,646.92,Crédito
+1a2b4757,2024-06-10 15:39:13,2024-06-10,2024-06,Mon,Loja Física,Rio de Janeiro,Daniela,"Monitor 24""",Periféricos,2,1076.08,0.0,0.0,2152.16,0.0,2152.16,Crédito
+234d7aad,2024-06-10 20:47:56,2024-06-10,2024-06,Mon,Marketplace,Salvador,,Câmera Web HD,Periféricos,4,240.48,0.2,19.81,961.92,192.38,789.35,Débito
+fc89e862,2024-06-10 20:54:22,2024-06-10,2024-06,Mon,Loja Física,Recife,Fernanda,"Monitor 24""",Periféricos,1,772.48,0.0,0.0,772.48,0.0,772.48,Débito
+dfce26e1,2024-06-11 10:27:10,2024-06-11,2024-06,Tue,Marketplace,Salvador,,"Monitor 24""",Periféricos,3,982.77,0.0,0.0,2948.31,0.0,2948.31,Crédito
+9cdcb272,2024-06-11 10:32:35,2024-06-11,2024-06,Tue,Marketplace,Salvador,,Headset Gamer,Periféricos,1,475.41,0.0,26.02,475.41,0.0,501.43,Débito
+708707e5,2024-06-11 11:43:24,2024-06-11,2024-06,Tue,E-commerce,Fortaleza,,Smartphone A,Celulares,1,2631.18,0.0,34.75,2631.18,0.0,2665.93,Crédito
+01da5d42,2024-06-11 11:58:27,2024-06-11,2024-06,Tue,E-commerce,São Paulo,,Mouse Sem Fio,Periféricos,4,152.82,0.05,17.56,611.28,30.56,598.28,Boleto
+d7874655,2024-06-11 12:33:26,2024-06-11,2024-06,Tue,E-commerce,Porto Alegre,,"Tablet 10""",Tablets,1,1888.98,0.0,33.49,1888.98,0.0,1922.47,Crédito
+0dc0fb53,2024-06-11 18:51:56,2024-06-11,2024-06,Tue,Loja Física,Porto Alegre,Eduardo,"Tablet 10""",Tablets,1,2159.34,0.0,0.0,2159.34,0.0,2159.34,Débito
+afc79b05,2024-06-12 11:37:46,2024-06-12,2024-06,Wed,Marketplace,Fortaleza,,Smartphone B,Celulares,4,3581.74,0.0,38.63,14326.96,0.0,14365.59,Pix
+2e56c0d8,2024-06-12 13:06:08,2024-06-12,2024-06,Wed,Loja Física,São Paulo,Eduardo,"Notebook 14""",Computadores,2,3069.36,0.0,0.0,6138.72,0.0,6138.72,Pix
+5c06bfd4,2024-06-12 18:20:21,2024-06-12,2024-06,Wed,Loja Física,Curitiba,Bruno,Mouse Sem Fio,Periféricos,1,156.53,0.0,0.0,156.53,0.0,156.53,Crédito
+376931b7,2024-06-12 18:53:38,2024-06-12,2024-06,Wed,Loja Física,Belo Horizonte,Eduardo,Smartphone B,Celulares,1,2851.86,0.0,0.0,2851.86,0.0,2851.86,Crédito
+b7d83fc7,2024-06-12 19:54:12,2024-06-12,2024-06,Wed,E-commerce,Rio de Janeiro,,Câmera Web HD,Periféricos,5,227.39,0.0,36.73,1136.95,0.0,1173.68,Pix
+d8b4dbed,2024-06-12 20:02:36,2024-06-12,2024-06,Wed,Marketplace,Curitiba,,Teclado Mecânico,Periféricos,4,310.84,0.0,15.71,1243.36,0.0,1259.07,Crédito
+6a1d1a5e,2024-06-13 09:36:38,2024-06-13,2024-06,Thu,Marketplace,Campinas,,Teclado Mecânico,Periféricos,1,373.57,0.1,0.0,373.57,37.36,336.21,Pix
+028bded6,2024-06-13 10:43:26,2024-06-13,2024-06,Thu,Loja Física,Rio de Janeiro,Bruno,"Tablet 10""",Tablets,1,2110.87,0.0,0.0,2110.87,0.0,2110.87,Pix
+dd8ce68a,2024-06-13 12:07:45,2024-06-13,2024-06,Thu,Marketplace,Porto Alegre,,Mouse Sem Fio,Periféricos,2,180.66,0.05,32.82,361.32,18.07,376.07,Crédito
+8dcd16eb,2024-06-13 12:25:42,2024-06-13,2024-06,Thu,E-commerce,Rio de Janeiro,,Smartphone A,Celulares,1,2077.56,0.05,25.69,2077.56,103.88,1999.37,Crédito
+169fe4d6,2024-06-13 13:19:10,2024-06-13,2024-06,Thu,Loja Física,Campinas,Fernanda,Mouse Sem Fio,Periféricos,2,210.39,0.0,0.0,420.78,0.0,420.78,Pix
+35f6bb03,2024-06-13 21:16:25,2024-06-13,2024-06,Thu,Marketplace,Campinas,,Câmera Web HD,Periféricos,1,267.53,0.0,24.38,267.53,0.0,291.91,Crédito
+8c91d8c8,2024-06-14 11:59:06,2024-06-14,2024-06,Fri,E-commerce,Salvador,,Câmera Web HD,Periféricos,4,217.1,0.0,25.91,868.4,0.0,894.31,Boleto
+77d06c63,2024-06-14 12:07:59,2024-06-14,2024-06,Fri,Marketplace,Salvador,,Smartphone A,Celulares,1,2344.01,0.05,34.03,2344.01,117.2,2260.84,Crédito
+8dd9a458,2024-06-16 19:44:17,2024-06-16,2024-06,Sun,E-commerce,Fortaleza,,"Notebook 15""",Computadores,1,4375.81,0.0,38.99,4375.81,0.0,4414.8,Crédito
+5085994f,2024-06-17 13:29:38,2024-06-17,2024-06,Mon,E-commerce,Recife,,Smartphone B,Celulares,3,3277.25,0.05,0.0,9831.75,491.59,9340.16,Crédito
+b856993b,2024-06-17 21:29:37,2024-06-17,2024-06,Mon,E-commerce,Rio de Janeiro,,Smartphone A,Celulares,1,1844.3,0.0,16.71,1844.3,0.0,1861.01,Débito
+a4f4e415,2024-06-18 19:53:50,2024-06-18,2024-06,Tue,Loja Física,Campinas,Daniela,Headset Gamer,Periféricos,6,411.07,0.0,0.0,2466.42,0.0,2466.42,Pix
+24339e0c,2024-06-18 21:48:34,2024-06-18,2024-06,Tue,E-commerce,São Paulo,,Smartphone B,Celulares,1,3953.52,0.0,20.64,3953.52,0.0,3974.16,Pix
+49d84dfb,2024-06-19 10:10:03,2024-06-19,2024-06,Wed,Marketplace,Rio de Janeiro,,Teclado Mecânico,Periféricos,2,361.55,0.0,0.0,723.1,0.0,723.1,Pix
+2388186c,2024-06-19 10:25:01,2024-06-19,2024-06,Wed,E-commerce,Fortaleza,,"Notebook 15""",Computadores,1,3906.04,0.0,0.0,3906.04,0.0,3906.04,Crédito
+c681f04e,2024-06-19 12:20:18,2024-06-19,2024-06,Wed,E-commerce,Campinas,,"Tablet 10""",Tablets,1,1633.1,0.0,37.21,1633.1,0.0,1670.31,Pix
+fb72f7bf,2024-06-19 14:00:21,2024-06-19,2024-06,Wed,Loja Física,Florianópolis,Fernanda,"Notebook 14""",Computadores,1,3140.68,0.0,0.0,3140.68,0.0,3140.68,Crédito
+464f44b5,2024-06-19 19:12:42,2024-06-19,2024-06,Wed,E-commerce,Fortaleza,,Mouse Sem Fio,Periféricos,1,130.4,0.2,21.04,130.4,26.08,125.36,Débito
+a32cddcf,2024-06-19 21:56:16,2024-06-19,2024-06,Wed,Loja Física,Campinas,Carlos,Smartphone A,Celulares,1,2083.85,0.0,0.0,2083.85,0.0,2083.85,Crédito
+9486ad29,2024-06-20 20:29:37,2024-06-20,2024-06,Thu,E-commerce,Fortaleza,,Câmera Web HD,Periféricos,5,202.78,0.05,0.0,1013.9,50.7,963.2,Pix
+29ab4c28,2024-06-20 21:42:01,2024-06-20,2024-06,Thu,E-commerce,Recife,,"Monitor 24""",Periféricos,3,601.14,0.0,15.54,1803.42,0.0,1818.96,Pix
+93bff6f4,2024-06-21 09:34:33,2024-06-21,2024-06,Fri,E-commerce,Campinas,,Headset Gamer,Periféricos,5,384.91,0.05,33.34,1924.55,96.23,1861.66,Crédito
+f790940b,2024-06-21 10:27:47,2024-06-21,2024-06,Fri,E-commerce,Belo Horizonte,,"Monitor 24""",Periféricos,5,928.36,0.0,35.58,4641.8,0.0,4677.38,Pix
+2ad62cb4,2024-06-21 10:41:35,2024-06-21,2024-06,Fri,Loja Física,Florianópolis,Carlos,Mouse Sem Fio,Periféricos,2,161.43,0.0,0.0,322.86,0.0,322.86,Crédito
+410dbaa2,2024-06-21 11:22:43,2024-06-21,2024-06,Fri,Marketplace,Fortaleza,,Mouse Sem Fio,Periféricos,2,136.44,0.05,0.0,272.88,13.64,259.24,Pix
+27767af3,2024-06-21 11:48:35,2024-06-21,2024-06,Fri,E-commerce,São Paulo,,Headset Gamer,Periféricos,2,446.78,0.0,0.0,893.56,0.0,893.56,Crédito
+8b17b58a,2024-06-21 12:10:53,2024-06-21,2024-06,Fri,E-commerce,Fortaleza,,"Tablet 10""",Tablets,1,2036.62,0.0,36.31,2036.62,0.0,2072.93,Crédito
+aecd20ca,2024-06-22 19:58:24,2024-06-22,2024-06,Sat,Loja Física,São Paulo,Bruno,"Monitor 24""",Periféricos,1,896.07,0.0,0.0,896.07,0.0,896.07,Pix
+6da9cf33,2024-06-23 12:43:37,2024-06-23,2024-06,Sun,E-commerce,Belo Horizonte,,Mouse Sem Fio,Periféricos,1,181.97,0.0,19.09,181.97,0.0,201.06,Crédito
+c57a637f,2024-06-24 10:34:48,2024-06-24,2024-06,Mon,Marketplace,São Paulo,,Mouse Sem Fio,Periféricos,4,159.96,0.0,23.3,639.84,0.0,663.14,Pix
+fb3fc8d6,2024-06-24 10:41:12,2024-06-24,2024-06,Mon,E-commerce,Belo Horizonte,,Câmera Web HD,Periféricos,1,189.11,0.05,26.74,189.11,9.46,206.39,Crédito
+7113402f,2024-06-24 11:48:50,2024-06-24,2024-06,Mon,Marketplace,Porto Alegre,,Headset Gamer,Periféricos,4,517.92,0.0,20.49,2071.68,0.0,2092.17,Débito
+6e4d8c14,2024-06-24 12:01:31,2024-06-24,2024-06,Mon,Marketplace,Recife,,"Notebook 14""",Computadores,1,3532.38,0.0,15.21,3532.38,0.0,3547.59,Crédito
+6c542a86,2024-06-24 12:02:23,2024-06-24,2024-06,Mon,E-commerce,Fortaleza,,"Monitor 24""",Periféricos,3,778.42,0.0,23.65,2335.26,0.0,2358.91,Crédito
+99c51357,2024-06-24 12:39:03,2024-06-24,2024-06,Mon,E-commerce,Salvador,,Câmera Web HD,Periféricos,2,256.28,0.0,0.0,512.56,0.0,512.56,Débito
+5640f031,2024-06-24 12:48:40,2024-06-24,2024-06,Mon,Loja Física,Florianópolis,Eduardo,"Monitor 24""",Periféricos,1,1036.09,0.0,0.0,1036.09,0.0,1036.09,Boleto
+48b1d160,2024-06-25 10:59:47,2024-06-25,2024-06,Tue,Marketplace,Campinas,,Teclado Mecânico,Periféricos,2,340.89,0.1,25.59,681.78,68.18,639.19,Crédito
+b97d31b4,2024-06-25 13:37:02,2024-06-25,2024-06,Tue,Loja Física,Curitiba,Bruno,"Monitor 24""",Periféricos,2,782.21,0.0,0.0,1564.42,0.0,1564.42,Pix
+ffe16354,2024-06-25 15:28:07,2024-06-25,2024-06,Tue,Loja Física,São Paulo,Bruno,"Monitor 24""",Periféricos,3,820.7,0.0,0.0,2462.1,0.0,2462.1,Boleto
+8255c37d,2024-06-25 19:22:42,2024-06-25,2024-06,Tue,Loja Física,Curitiba,Fernanda,Headset Gamer,Periféricos,1,508.45,0.0,0.0,508.45,0.0,508.45,Crédito
+4dd48718,2024-06-25 20:37:34,2024-06-25,2024-06,Tue,Loja Física,Rio de Janeiro,Fernanda,"Notebook 15""",Computadores,1,4239.95,0.0,0.0,4239.95,0.0,4239.95,Crédito
+3c477e3e,2024-06-25 21:24:08,2024-06-25,2024-06,Tue,Loja Física,Campinas,Fernanda,"Monitor 24""",Periféricos,2,950.63,0.2,0.0,1901.26,380.25,1521.01,Crédito
+74bea001,2024-06-26 10:54:52,2024-06-26,2024-06,Wed,Marketplace,São Paulo,,Smartphone B,Celulares,4,3619.33,0.0,13.69,14477.32,0.0,14491.01,Crédito
+da885f51,2024-06-26 11:48:55,2024-06-26,2024-06,Wed,Marketplace,Fortaleza,,Teclado Mecânico,Periféricos,2,457.96,0.05,33.59,915.92,45.8,903.71,Crédito
+0f916630,2024-06-27 11:21:43,2024-06-27,2024-06,Thu,Loja Física,Curitiba,Carlos,Smartphone A,Celulares,1,2022.65,0.0,0.0,2022.65,0.0,2022.65,Pix
+0e0e8e40,2024-06-27 11:30:50,2024-06-27,2024-06,Thu,E-commerce,Porto Alegre,,Smartphone B,Celulares,1,3562.08,0.05,0.0,3562.08,178.1,3383.98,Débito
+9e0c4843,2024-06-27 18:31:29,2024-06-27,2024-06,Thu,E-commerce,Belo Horizonte,,Mouse Sem Fio,Periféricos,8,162.18,0.0,28.23,1297.44,0.0,1325.67,Pix
+a2854c8e,2024-06-28 10:33:03,2024-06-28,2024-06,Fri,Loja Física,Rio de Janeiro,Bruno,"Monitor 24""",Periféricos,1,739.03,0.0,0.0,739.03,0.0,739.03,Boleto
+86c4f61e,2024-06-28 11:56:41,2024-06-28,2024-06,Fri,E-commerce,Florianópolis,,Smartphone A,Celulares,5,2651.43,0.0,19.35,13257.15,0.0,13276.5,Crédito
+82c2f31b,2024-06-28 12:10:57,2024-06-28,2024-06,Fri,Loja Física,Rio de Janeiro,Bruno,Smartphone A,Celulares,1,1918.14,0.05,0.0,1918.14,95.91,1822.23,Débito
+8027975c,2024-06-28 19:59:22,2024-06-28,2024-06,Fri,Loja Física,Campinas,Eduardo,Smartphone B,Celulares,1,3186.92,0.05,0.0,3186.92,159.35,3027.57,Débito
+a3287411,2024-06-28 21:44:43,2024-06-28,2024-06,Fri,E-commerce,Salvador,,Headset Gamer,Periféricos,2,368.76,0.05,19.44,737.52,36.88,720.08,Pix
