@@ -120,4 +120,3 @@ dependencies:
       - wasmtime==36.0.0
       - watchdog==6.0.0
       - widgetsnbextension==4.0.14
-prefix: C:\Users\mathe\anaconda3\envs\.venv
