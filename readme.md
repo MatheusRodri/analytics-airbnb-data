@@ -40,14 +40,12 @@ Antes de executar o projeto, certifique-se de ter os seguintes requisitos instal
 ## Como rodar
 - Clone ou baixe o repositório
 - Entrar na pasta do projeto pelo terminal
-- Executar o seguinte comando no terminal: ``conda env create -f environment.yml``
-    - Nota sobre o Nome do Ambiente 
-        O nome padrão para este ambiente, definido no arquivo environment.yml, é dash_airbnb_rj. Se você já tiver um ambiente com este nome em sua máquina, o comando acima falhará.
-        Para resolver, você pode criar o ambiente com um nome diferente de sua escolha, usando o seguinte comando:
-        ``conda env create -f environment.yml -n nome_do_seu_ambiente``
-- Ativar o ambiente criado:
-    - No Windows: ``conda activate dash_airbnb_rj``
-    - No MacOS/Linux: ``source activate dash_airbnb_rj``
+- Crie um ambiente virtual usando: ``python -m venv .venv``
+- Ativar o ambiente virtual:
+    - No Windows: ``.venv\Scripts\activate``
+    - No MacOS/Linux: ``source .venv/bin/activate``
+- Instalar as dependências do projeto:
+    ``pip install -r requirements.txt``
 - Abra o projeto no seu editor de código preferido.
 - Pronto para rodar os notebooks e o dashboard!
 - Para rodar o dashboard, no terminal, estando na pasta do projeto e com o ambiente ativado, execute:
