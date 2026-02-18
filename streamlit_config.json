@@ -778,11 +778,7 @@
                 "stack": "stack",
                 "interactiveScale": false,
                 "zeroScale": true,
-                "size": {
-                    "mode": "auto",
-                    "width": 800,
-                    "height": 600
-                },
+                "size":{"mode":"fixed","width":1280,"height":720},
                 "format": {},
                 "geoKey": "name",
                 "resolve": {
