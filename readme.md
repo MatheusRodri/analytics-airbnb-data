@@ -11,7 +11,7 @@
 - [Funcionalidades](#funcionalidades)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Como Rodar](#como-rodar)
-  - [Pré-requisitos](#pré-requisitos)
+- [Pré-requisitos](#pré-requisitos)
 - [Como Usar](#como-usar)
 - [Como Contribuir](#como-contribuir)
 
@@ -55,3 +55,51 @@ Antes de executar o projeto, certifique-se de ter os seguintes requisitos instal
 
 - Entre em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/matheus-rodrigues-mrj/)
 - Faço fork do repositório
+
+
+
+
+# TITLE
+
+> DESCRIPTION
+
+## 📋 Summary
+
+- [📖 About project](#-about-project)
+- [🏗️ Architecture](#-architecture)
+- [🛠️ Technologies used](#-technologies-used)
+- [📋 Requirements](#-requirements)
+- [🚀 How to run](#-how-to-run)
+- [👨‍💻 Authors](#-authors)
+
+## 📖 About Project <a name="about-project"></a>
+
+About the project
+
+## 🏗️ Achitecture <a name="architecture"></a>
+
+Architecture description
+
+## 🛠️ Technologies used <a name="technologies-used"></a>
+
+- Technology 1
+    - Lib 1
+    - Lib 2
+    - Lib 3
+- Technology 2
+- Technology 3
+
+
+## 📋 Requirements <a name="requirements"></a>
+
+- Requirement 1
+- Requirement 2
+- Requirement 3
+
+## 🚀 How to run <a name="how-to-run"></a>
+
+Instructions to run the project
+
+## 👨‍💻 Authors <a name="authors"></a>
+
+- Author 1
