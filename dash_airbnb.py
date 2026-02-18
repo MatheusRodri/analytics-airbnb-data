@@ -19,4 +19,8 @@ def get_pyg_renderer(dataframe):
     return StreamlitRenderer(dataframe, spec="streamlit_config.json", spec_io_mode="rw")
 
 renderer = get_pyg_renderer(df_rio)
-renderer.viewer()
+
+col1, col2, col3 = st.columns([1, 4, 1])
+
+with col2:
+    renderer.viewer()
