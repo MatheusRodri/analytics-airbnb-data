@@ -20,8 +20,8 @@ This project contains 2 interactive analyses:
 
 ```mermaid
 graph LR
-    A[📦 Vendas.csv] -->| Ingestão | B(⚡Python) 
-    B -->|Tratamento| C[📊 Streamlit]
+    A[📦 Vendas.csv] -->| Ingestion | B(⚡Python) 
+    B -->|Transformation| C[📊 Streamlit]
     
     style A fill:#134647,stroke:#333,stroke-width:2px
     style B fill:#0074b4,stroke:#333,stroke-width:2px
