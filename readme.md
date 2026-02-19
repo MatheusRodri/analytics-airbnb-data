@@ -49,7 +49,7 @@ Antes de executar o projeto, certifique-se de ter os seguintes requisitos instal
 - Abra o projeto no seu editor de código preferido.
 - Pronto para rodar os notebooks e o dashboard!
 - Para rodar o dashboard, no terminal, estando na pasta do projeto e com o ambiente ativado, execute:
-    ``streamlit run dash_airbnb.py``
+    ``streamlit run dash_airbnb_v2.py``
 
 ## Como Contribuir
 

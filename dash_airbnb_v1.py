@@ -2,8 +2,9 @@ import pandas as pd
 import streamlit as st
 from pygwalker.api.streamlit import StreamlitRenderer
 
-st.set_page_config(layout="wide")
+st.set_page_config(layout="wide",initial_sidebar_state="expanded")
 st.title("Airbnb Data Analysis Rio De Janeiro")
+
 
 @st.cache_data
 def load_data():
@@ -20,7 +21,4 @@ def get_pyg_renderer(dataframe):
 
 renderer = get_pyg_renderer(df_rio)
 
-col1, col2, col3 = st.columns([1, 4, 1])
-
-with col2:
-    renderer.viewer()
+renderer.viewer()
