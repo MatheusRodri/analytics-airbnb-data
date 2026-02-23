@@ -7,7 +7,7 @@ st.title("Airbnb Data Analysis Rio De Janeiro")
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv("data/listings.csv")
+    df = pd.read_csv("../data/listings.csv")
     df['price'] = df["price"].str.replace("$", "").str.replace(",", "").astype(float)
     return df
 
