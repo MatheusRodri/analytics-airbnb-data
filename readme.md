@@ -16,7 +16,7 @@ This project contains 2 interactive analyses:
 - Dashboard about Airbnb in Rio de Janeiro, using Pygwalker and Streamlit.
 
 
-## 🏗️ Achitecture <a id="architecture"></a>
+## 🏗️ Architecture <a id="architecture"></a>
 
 ```mermaid
 graph LR
